@@ -10,7 +10,7 @@
   /*** General Rules ***/
   /*** Layout ***/
   /*** body ***/
-  background: #007399;
+  background: #ffffff;
   margin: auto;
   /*** Content ***/
 }
@@ -100,7 +100,11 @@
   height: 75px;
   background: #00537b;
   margin-bottom: 1em;
-  border: 1px solid #d1e5f6;
+}
+.k1 .content-root {
+  background: #007399;
+  display: block;
+  overflow: hidden;
 }
 .k1 .module {
   display: block;
@@ -144,4 +148,19 @@
 }
 .k1 .filters ul li[checked="true"] {
   background: #ea5b0c;
+}
+.k1 footer {
+  width: 100%;
+  display: block;
+  clear: both;
+  position: fixed;
+  bottom: 0;
+  height: 45px;
+  text-align: center;
+  font-weight: 700;
+  color: #ffffff;
+  background: #00537b;
+}
+.k1 footer p {
+  line-height: 45px;
 }

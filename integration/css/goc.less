@@ -112,7 +112,8 @@
         }
     }
     /*** body ***/
-    background:@COLOR_BlueMedium;
+    background:@COLOR_White;
+    ;
     margin:auto;
     /*** Content ***/
     header {
@@ -120,7 +121,13 @@
         height: 75px;
         background: @COLOR_Blue;
         margin-bottom: 1em;
-        border: 1px solid @COLOR_BlueLight;
+        // border: 1px solid @COLOR_BlueLight;
+    }
+    .content-root {
+        background: @COLOR_BlueMedium;
+        display: block;
+        overflow: hidden;
+      
     }
     .module {
         display: block;
@@ -129,6 +136,7 @@
         padding: .5em 1em;
         border-radius: 5px;
         border: 1px solid @COLOR_Blue;
+     //  margin-bottom: 2em;
     }
     .map {
         width: 100%;
@@ -173,6 +181,21 @@
                     background: @COLOR_Orange;
                 }
             }
+        }
+    }
+    footer {
+        width: 100%;
+        display: block;
+        clear: both;
+        position: fixed;
+        bottom: 0;
+        height: 45px;
+        text-align: center;
+        font-weight: 700;
+        color: @COLOR_White;
+        background: @COLOR_Blue;
+        p {
+            line-height: 45px;
         }
     }
 }
