@@ -102,12 +102,13 @@
             margin: auto;
         }
         .left {
+            display: block;
             width: 50%;
             float: left
         }
         .right {
             width: 50%;
-            float: left
+            float: left;
         }
     }
     /*** body ***/
@@ -132,11 +133,13 @@
     .map {
         width: 100%;
         svg {
-            width: 100%;
-            height: auto;
-            left:0;
-            top:0;
-         //   rect{width:100%;}
+            visibility: hidden;
+            position: absolute;
+            path:hover {
+                color: orange;
+                pointer-events: all;
+                fill:orange;
+            }
             #Map {
                 width: 100%;
             }

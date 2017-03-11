@@ -86,6 +86,7 @@
     margin: auto;
   }
   .k1 .left {
+    display: block;
     width: 50%;
     float: left;
   }
@@ -113,10 +114,13 @@
   width: 100%;
 }
 .k1 .map svg {
-  width: 100%;
-  height: auto;
-  left: 0;
-  top: 0;
+  visibility: hidden;
+  position: absolute;
+}
+.k1 .map svg path:hover {
+  color: orange;
+  pointer-events: all;
+  fill: orange;
 }
 .k1 .map svg #Map {
   width: 100%;

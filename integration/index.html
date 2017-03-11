@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="css/goc.css" type="text/css" rel="stylesheet" />
     <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
-    <script type="text/javascript" src="/js/goc.min.js"></script>
+    <script type="text/javascript" src="js/goc.min.js"></script>
     <script type="text/javascript" src="../calculation/importCalc.js"></script>
     <!-- START Pour INTEGRATION -->
     <script>
@@ -22,14 +22,16 @@
     <div class="content-root">
         <div class="left">
             <div class="map">
-                <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" x="0" contentScriptType="text/ecmascript" y="0" width="600" zoomAndPan="magnify" contentStyleType="text/css" id="luxmap" height="1000" preserveAspectRatio="xMidYMid meet" version="1.0" viewbo="0 0 100 100">
-                    <defs>
-                        <rect width="363" x="0" height="512" id="MapFrame" y="0" />
-                        <clipPath clipPathUnits="userSpaceOnUse" id="MapClipRectangle">
-                            <use xlink:href="#MapFrame" xlink:actuate="onLoad" xlink:type="simple" xlink:show="embed" xmlns:xlink="http://www.w3.org/1999/xlink" /> </clipPath>
-                    </defs>
-                    <clipPath clipPathUnits="userSpaceOnUse" id="MapClipRectangle">
-                        <use xlink:href="#MapFrame" xlink:actuate="onLoad" xlink:type="simple" xlink:show="embed" xmlns:xlink="http://www.w3.org/1999/xlink" /> </clipPath>
+   <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" x="0" contentScriptType="text/ecmascript" y="0" width="363" zoomAndPan="magnify" contentStyleType="text/css" id="hier soll id hin" height="512" preserveAspectRatio="xMidYMid meet" version="1.0">
+   <defs>
+      <rect width="363" x="0" height="512" id="MapFrame" y="0"/>
+      <clipPath clipPathUnits="userSpaceOnUse" id="MapClipRectangle">
+         <use xlink:href="#MapFrame" xlink:actuate="onLoad" xlink:type="simple" xlink:show="embed" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </clipPath>
+   </defs>
+   <clipPath clipPathUnits="userSpaceOnUse" id="MapClipRectangle">
+      <use xlink:href="#MapFrame" xlink:actuate="onLoad" xlink:type="simple" xlink:show="embed" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   </clipPath>
                     <g id="Map" clip-path="url(#MapClipRectangle)">
                         <g style="stroke-linejoin:round;stroke-linecap:round;stroke:#007399;stroke-width:.75;fill:#fff" id="contentMap">
                             <g id="boundaries">
