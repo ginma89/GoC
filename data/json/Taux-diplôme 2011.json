@@ -1,0 +1,737 @@
+[
+  {
+    "Commune": "Beaufort",
+    "pourcentage :  terminé l'enseignement primaire": "24,28139183",
+    "pourcentage : diplôme secondaire": "60,13615734",
+    "pourcentage : diplôme universitaire": "15,58245083",
+    "Indice": "91,301059"
+  },
+  {
+    "Commune": "Bech",
+    "pourcentage :  terminé l'enseignement primaire": "12,11631664",
+    "pourcentage : diplôme secondaire": "56,3812601",
+    "pourcentage : diplôme universitaire": "31,50242326",
+    "Indice": "119,3861066"
+  },
+  {
+    "Commune": "Beckerich",
+    "pourcentage :  terminé l'enseignement primaire": "15,74965612",
+    "pourcentage : diplôme secondaire": "60,04126547",
+    "pourcentage : diplôme universitaire": "24,2090784",
+    "Indice": "108,4594223"
+  },
+  {
+    "Commune": "Berdorf",
+    "pourcentage :  terminé l'enseignement primaire": "18,33333333",
+    "pourcentage : diplôme secondaire": "63,22222222",
+    "pourcentage : diplôme universitaire": "18,44444444",
+    "Indice": "100,1111111"
+  },
+  {
+    "Commune": "Bertrange",
+    "pourcentage :  terminé l'enseignement primaire": "11,43292683",
+    "pourcentage : diplôme secondaire": "43,7754065",
+    "pourcentage : diplôme universitaire": "44,79166667",
+    "Indice": "133,3587398"
+  },
+  {
+    "Commune": "Bettembourg",
+    "pourcentage :  terminé l'enseignement primaire": "22,13646729",
+    "pourcentage : diplôme secondaire": "57,53376601",
+    "pourcentage : diplôme universitaire": "20,32976671",
+    "Indice": "98,19329942"
+  },
+  {
+    "Commune": "Bettendorf",
+    "pourcentage :  terminé l'enseignement primaire": "29,279577",
+    "pourcentage : diplôme secondaire": "54,72571051",
+    "pourcentage : diplôme universitaire": "15,99471249",
+    "Indice": "86,71513549"
+  },
+  {
+    "Commune": "Betzdorf",
+    "pourcentage :  terminé l'enseignement primaire": "10,95115681",
+    "pourcentage : diplôme secondaire": "51,87660668",
+    "pourcentage : diplôme universitaire": "37,1722365",
+    "Indice": "126,2210797"
+  },
+  {
+    "Commune": "Bissen",
+    "pourcentage :  terminé l'enseignement primaire": "21,7699115",
+    "pourcentage : diplôme secondaire": "55,45722714",
+    "pourcentage : diplôme universitaire": "22,77286136",
+    "Indice": "101,0029499"
+  },
+  {
+    "Commune": "Biwer",
+    "pourcentage :  terminé l'enseignement primaire": "15,38461538",
+    "pourcentage : diplôme secondaire": "61,35310473",
+    "pourcentage : diplôme universitaire": "23,26227989",
+    "Indice": "107,8776645"
+  },
+  {
+    "Commune": "Boevange-Attert",
+    "pourcentage :  terminé l'enseignement primaire": "14,63607595",
+    "pourcentage : diplôme secondaire": "60,91772152",
+    "pourcentage : diplôme universitaire": "24,44620253",
+    "Indice": "109,8101266"
+  },
+  {
+    "Commune": "Boulaide",
+    "pourcentage :  terminé l'enseignement primaire": "20,30456853",
+    "pourcentage : diplôme secondaire": "61,08291032",
+    "pourcentage : diplôme universitaire": "18,61252115",
+    "Indice": "98,30795262"
+  },
+  {
+    "Commune": "Bourscheid",
+    "pourcentage :  terminé l'enseignement primaire": "16,55450875",
+    "pourcentage : diplôme secondaire": "64,06460296",
+    "pourcentage : diplôme universitaire": "19,38088829",
+    "Indice": "102,8263795"
+  },
+  {
+    "Commune": "Bous",
+    "pourcentage :  terminé l'enseignement primaire": "18,12080537",
+    "pourcentage : diplôme secondaire": "56,93512304",
+    "pourcentage : diplôme universitaire": "24,94407159",
+    "Indice": "106,8232662"
+  },
+  {
+    "Commune": "Clervaux",
+    "pourcentage :  terminé l'enseignement primaire": "21,32649322",
+    "pourcentage : diplôme secondaire": "58,88603884",
+    "pourcentage : diplôme universitaire": "19,78746794",
+    "Indice": "98,46097472"
+  },
+  {
+    "Commune": "Colmar-Berg",
+    "pourcentage :  terminé l'enseignement primaire": "20,10178117",
+    "pourcentage : diplôme secondaire": "57,16709075",
+    "pourcentage : diplôme universitaire": "22,73112807",
+    "Indice": "102,6293469"
+  },
+  {
+    "Commune": "Consdorf",
+    "pourcentage :  terminé l'enseignement primaire": "21,63120567",
+    "pourcentage : diplôme secondaire": "54,96453901",
+    "pourcentage : diplôme universitaire": "23,40425532",
+    "Indice": "101,7730496"
+  },
+  {
+    "Commune": "Contern",
+    "pourcentage :  terminé l'enseignement primaire": "9,903846154",
+    "pourcentage : diplôme secondaire": "52,59615385",
+    "pourcentage : diplôme universitaire": "37,5",
+    "Indice": "127,5961538"
+  },
+  {
+    "Commune": "Dalheim",
+    "pourcentage :  terminé l'enseignement primaire": "18,03556308",
+    "pourcentage : diplôme secondaire": "58,00169348",
+    "pourcentage : diplôme universitaire": "23,96274344",
+    "Indice": "105,9271804"
+  },
+  {
+    "Commune": "Diekirch",
+    "pourcentage :  terminé l'enseignement primaire": "25,23410547",
+    "pourcentage : diplôme secondaire": "56,60423854",
+    "pourcentage : diplôme universitaire": "18,16165599",
+    "Indice": "92,92755052"
+  },
+  {
+    "Commune": "Differdange",
+    "pourcentage :  terminé l'enseignement primaire": "37,88214444",
+    "pourcentage : diplôme secondaire": "51,96425934",
+    "pourcentage : diplôme universitaire": "10,15359622",
+    "Indice": "72,27145178"
+  },
+  {
+    "Commune": "Dippach",
+    "pourcentage :  terminé l'enseignement primaire": "16,67409719",
+    "pourcentage : diplôme secondaire": "53,81185912",
+    "pourcentage : diplôme universitaire": "29,51404369",
+    "Indice": "112,8399465"
+  },
+  {
+    "Commune": "Dudelange",
+    "pourcentage :  terminé l'enseignement primaire": "28,33479404",
+    "pourcentage : diplôme secondaire": "54,46099912",
+    "pourcentage : diplôme universitaire": "17,20420684",
+    "Indice": "88,8694128"
+  },
+  {
+    "Commune": "Echternach",
+    "pourcentage :  terminé l'enseignement primaire": "28,23421214",
+    "pourcentage : diplôme secondaire": "51,13427345",
+    "pourcentage : diplôme universitaire": "20,63151441",
+    "Indice": "92,39730227"
+  },
+  {
+    "Commune": "Ell",
+    "pourcentage :  terminé l'enseignement primaire": "11,36690647",
+    "pourcentage : diplôme secondaire": "60,43165468",
+    "pourcentage : diplôme universitaire": "28,20143885",
+    "Indice": "116,8345324"
+  },
+  {
+    "Commune": "Erpeldange",
+    "pourcentage :  terminé l'enseignement primaire": "13,56443105",
+    "pourcentage : diplôme secondaire": "57,19668425",
+    "pourcentage : diplôme universitaire": "29,2388847",
+    "Indice": "115,6744537"
+  },
+  {
+    "Commune": "Esch-Alzette",
+    "pourcentage :  terminé l'enseignement primaire": "33,2234821",
+    "pourcentage : diplôme secondaire": "52,15885606",
+    "pourcentage : diplôme universitaire": "14,61766184",
+    "Indice": "81,39417975"
+  },
+  {
+    "Commune": "Esch-Sûre",
+    "pourcentage :  terminé l'enseignement primaire": "21,9126506",
+    "pourcentage : diplôme secondaire": "58,96084337",
+    "pourcentage : diplôme universitaire": "19,12650602",
+    "Indice": "97,21385542"
+  },
+  {
+    "Commune": "Ettelbruck",
+    "pourcentage :  terminé l'enseignement primaire": "26,13803231",
+    "pourcentage : diplôme secondaire": "55,31780994",
+    "pourcentage : diplôme universitaire": "18,54415775",
+    "Indice": "92,40612545"
+  },
+  {
+    "Commune": "Feulen",
+    "pourcentage :  terminé l'enseignement primaire": "21,53249273",
+    "pourcentage : diplôme secondaire": "61,1057226",
+    "pourcentage : diplôme universitaire": "17,36178468",
+    "Indice": "95,82929195"
+  },
+  {
+    "Commune": "Fischbach",
+    "pourcentage :  terminé l'enseignement primaire": "11,85840708",
+    "pourcentage : diplôme secondaire": "63,71681416",
+    "pourcentage : diplôme universitaire": "24,42477876",
+    "Indice": "112,5663717"
+  },
+  {
+    "Commune": "Flaxweiler",
+    "pourcentage :  terminé l'enseignement primaire": "16,28334867",
+    "pourcentage : diplôme secondaire": "58,41766329",
+    "pourcentage : diplôme universitaire": "25,29898804",
+    "Indice": "109,0156394"
+  },
+  {
+    "Commune": "Frisange",
+    "pourcentage :  terminé l'enseignement primaire": "14,44636678",
+    "pourcentage : diplôme secondaire": "58,0017301",
+    "pourcentage : diplôme universitaire": "27,55190311",
+    "Indice": "113,1055363"
+  },
+  {
+    "Commune": "Garnich",
+    "pourcentage :  terminé l'enseignement primaire": "12,77461351",
+    "pourcentage : diplôme secondaire": "54,51586656",
+    "pourcentage : diplôme universitaire": "32,70951993",
+    "Indice": "119,9349064"
+  },
+  {
+    "Commune": "Goesdorf",
+    "pourcentage :  terminé l'enseignement primaire": "15,92039801",
+    "pourcentage : diplôme secondaire": "63,68159204",
+    "pourcentage : diplôme universitaire": "20,39800995",
+    "Indice": "104,4776119"
+  },
+  {
+    "Commune": "Grevenmacher",
+    "pourcentage :  terminé l'enseignement primaire": "25,43411645",
+    "pourcentage : diplôme secondaire": "52,67279537",
+    "pourcentage : diplôme universitaire": "21,89308819",
+    "Indice": "96,45897174"
+  },
+  {
+    "Commune": "Grosbous",
+    "pourcentage :  terminé l'enseignement primaire": "17,42160279",
+    "pourcentage : diplôme secondaire": "65,33101045",
+    "pourcentage : diplôme universitaire": "17,24738676",
+    "Indice": "99,82578397"
+  },
+  {
+    "Commune": "Heffingen",
+    "pourcentage :  terminé l'enseignement primaire": "17,91044776",
+    "pourcentage : diplôme secondaire": "53,13432836",
+    "pourcentage : diplôme universitaire": "28,95522388",
+    "Indice": "111,0447761"
+  },
+  {
+    "Commune": "Hesperange",
+    "pourcentage :  terminé l'enseignement primaire": "13,3269758",
+    "pourcentage : diplôme secondaire": "46,41792824",
+    "pourcentage : diplôme universitaire": "40,25509596",
+    "Indice": "126,9281202"
+  },
+  {
+    "Commune": "Hobscheid",
+    "pourcentage :  terminé l'enseignement primaire": "17,65616933",
+    "pourcentage : diplôme secondaire": "56,06608157",
+    "pourcentage : diplôme universitaire": "26,2777491",
+    "Indice": "108,6215798"
+  },
+  {
+    "Commune": "Junglinster",
+    "pourcentage :  terminé l'enseignement primaire": "12,5",
+    "pourcentage : diplôme secondaire": "51,96322068",
+    "pourcentage : diplôme universitaire": "35,53677932",
+    "Indice": "123,0367793"
+  },
+  {
+    "Commune": "Käerjeng",
+    "pourcentage :  terminé l'enseignement primaire": "20,36393714",
+    "pourcentage : diplôme secondaire": "57,27047146",
+    "pourcentage : diplôme universitaire": "22,3655914",
+    "Indice": "102,0016543"
+  },
+  {
+    "Commune": "Kayl",
+    "pourcentage :  terminé l'enseignement primaire": "28,44752819",
+    "pourcentage : diplôme secondaire": "56,76496097",
+    "pourcentage : diplôme universitaire": "14,78751084",
+    "Indice": "86,33998265"
+  },
+  {
+    "Commune": "Kehlen",
+    "pourcentage :  terminé l'enseignement primaire": "8,642363294",
+    "pourcentage : diplôme secondaire": "51,60276556",
+    "pourcentage : diplôme universitaire": "39,75487115",
+    "Indice": "131,1125079"
+  },
+  {
+    "Commune": "Kiischpelt",
+    "pourcentage :  terminé l'enseignement primaire": "17,48366013",
+    "pourcentage : diplôme secondaire": "61,92810458",
+    "pourcentage : diplôme universitaire": "20,58823529",
+    "Indice": "103,1045752"
+  },
+  {
+    "Commune": "Koerich",
+    "pourcentage :  terminé l'enseignement primaire": "13,10140637",
+    "pourcentage : diplôme secondaire": "58,32716506",
+    "pourcentage : diplôme universitaire": "28,57142857",
+    "Indice": "115,4700222"
+  },
+  {
+    "Commune": "Kopstal",
+    "pourcentage :  terminé l'enseignement primaire": "9,229929001",
+    "pourcentage : diplôme secondaire": "38,28509011",
+    "pourcentage : diplôme universitaire": "52,48498088",
+    "Indice": "143,2550519"
+  },
+  {
+    "Commune": "Lac Haute Sûre",
+    "pourcentage :  terminé l'enseignement primaire": "20,1754386",
+    "pourcentage : diplôme secondaire": "61,0745614",
+    "pourcentage : diplôme universitaire": "18,75",
+    "Indice": "98,5745614"
+  },
+  {
+    "Commune": "Larochette",
+    "pourcentage :  terminé l'enseignement primaire": "29,79842244",
+    "pourcentage : diplôme secondaire": "50,04382121",
+    "pourcentage : diplôme universitaire": "20,15775635",
+    "Indice": "90,35933392"
+  },
+  {
+    "Commune": "Lenningen",
+    "pourcentage :  terminé l'enseignement primaire": "13,49948079",
+    "pourcentage : diplôme secondaire": "54,20560748",
+    "pourcentage : diplôme universitaire": "32,29491173",
+    "Indice": "118,7954309"
+  },
+  {
+    "Commune": "Leudelange",
+    "pourcentage :  terminé l'enseignement primaire": "9,75975976",
+    "pourcentage : diplôme secondaire": "50,97597598",
+    "pourcentage : diplôme universitaire": "39,26426426",
+    "Indice": "129,5045045"
+  },
+  {
+    "Commune": "Lintgen",
+    "pourcentage :  terminé l'enseignement primaire": "23,0228471",
+    "pourcentage : diplôme secondaire": "56,94200351",
+    "pourcentage : diplôme universitaire": "20,03514938",
+    "Indice": "97,01230228"
+  },
+  {
+    "Commune": "Lorentzweiler",
+    "pourcentage :  terminé l'enseignement primaire": "16,42251349",
+    "pourcentage : diplôme secondaire": "56,97764071",
+    "pourcentage : diplôme universitaire": "26,5998458",
+    "Indice": "110,1773323"
+  },
+  {
+    "Commune": "Luxembourg",
+    "pourcentage :  terminé l'enseignement primaire": "15,22919612",
+    "pourcentage : diplôme secondaire": "36,85580214",
+    "pourcentage : diplôme universitaire": "47,91500174",
+    "Indice": "132,6858056"
+  },
+  {
+    "Commune": "Mamer",
+    "pourcentage :  terminé l'enseignement primaire": "12,87086446",
+    "pourcentage : diplôme secondaire": "47,42796158",
+    "pourcentage : diplôme universitaire": "39,70117396",
+    "Indice": "126,8303095"
+  },
+  {
+    "Commune": "Manternach",
+    "pourcentage :  terminé l'enseignement primaire": "14,54918033",
+    "pourcentage : diplôme secondaire": "60,24590164",
+    "pourcentage : diplôme universitaire": "25,20491803",
+    "Indice": "110,6557377"
+  },
+  {
+    "Commune": "Mersch",
+    "pourcentage :  terminé l'enseignement primaire": "20,40727903",
+    "pourcentage : diplôme secondaire": "55,54592721",
+    "pourcentage : diplôme universitaire": "24,04679376",
+    "Indice": "103,6395147"
+  },
+  {
+    "Commune": "Mertert",
+    "pourcentage :  terminé l'enseignement primaire": "22,68704747",
+    "pourcentage : diplôme secondaire": "59,65406275",
+    "pourcentage : diplôme universitaire": "17,65888978",
+    "Indice": "94,97184232"
+  },
+  {
+    "Commune": "Mertzig",
+    "pourcentage :  terminé l'enseignement primaire": "18,08191808",
+    "pourcentage : diplôme secondaire": "62,03796204",
+    "pourcentage : diplôme universitaire": "19,88011988",
+    "Indice": "101,7982018"
+  },
+  {
+    "Commune": "Mompach",
+    "pourcentage :  terminé l'enseignement primaire": "19,60486322",
+    "pourcentage : diplôme secondaire": "60,48632219",
+    "pourcentage : diplôme universitaire": "19,90881459",
+    "Indice": "100,3039514"
+  },
+  {
+    "Commune": "Mondercange",
+    "pourcentage :  terminé l'enseignement primaire": "16,74019608",
+    "pourcentage : diplôme secondaire": "59,01960784",
+    "pourcentage : diplôme universitaire": "24,24019608",
+    "Indice": "107,5"
+  },
+  {
+    "Commune": "Mondorf",
+    "pourcentage :  terminé l'enseignement primaire": "20,4260175",
+    "pourcentage : diplôme secondaire": "55,42031191",
+    "pourcentage : diplôme universitaire": "24,1536706",
+    "Indice": "103,7276531"
+  },
+  {
+    "Commune": "Niederanven",
+    "pourcentage :  terminé l'enseignement primaire": "11,26219332",
+    "pourcentage : diplôme secondaire": "42,0336979",
+    "pourcentage : diplôme universitaire": "46,70410878",
+    "Indice": "135,4419155"
+  },
+  {
+    "Commune": "Nommern",
+    "pourcentage :  terminé l'enseignement primaire": "10,81481481",
+    "pourcentage : diplôme secondaire": "61,77777778",
+    "pourcentage : diplôme universitaire": "27,40740741",
+    "Indice": "116,5925926"
+  },
+  {
+    "Commune": "Parc Hosingen",
+    "pourcentage :  terminé l'enseignement primaire": "22,96526698",
+    "pourcentage : diplôme secondaire": "60,54950752",
+    "pourcentage : diplôme universitaire": "16,48522551",
+    "Indice": "93,51995853"
+  },
+  {
+    "Commune": "Pétange",
+    "pourcentage :  terminé l'enseignement primaire": "28,77574981",
+    "pourcentage : diplôme secondaire": "57,98911303",
+    "pourcentage : diplôme universitaire": "13,23513715",
+    "Indice": "84,45938734"
+  },
+  {
+    "Commune": "Préizerdaul",
+    "pourcentage :  terminé l'enseignement primaire": "17,70114943",
+    "pourcentage : diplôme secondaire": "61,72413793",
+    "pourcentage : diplôme universitaire": "20,57471264",
+    "Indice": "102,8735632"
+  },
+  {
+    "Commune": "Putscheid",
+    "pourcentage :  terminé l'enseignement primaire": "24,09638554",
+    "pourcentage : diplôme secondaire": "59,63855422",
+    "pourcentage : diplôme universitaire": "16,26506024",
+    "Indice": "92,1686747"
+  },
+  {
+    "Commune": "Rambrouch",
+    "pourcentage :  terminé l'enseignement primaire": "18,35686778",
+    "pourcentage : diplôme secondaire": "58,49379546",
+    "pourcentage : diplôme universitaire": "23,14933676",
+    "Indice": "104,792469"
+  },
+  {
+    "Commune": "Reckange",
+    "pourcentage :  terminé l'enseignement primaire": "11,91011236",
+    "pourcentage : diplôme secondaire": "52,28464419",
+    "pourcentage : diplôme universitaire": "35,80524345",
+    "Indice": "123,8951311"
+  },
+  {
+    "Commune": "Redange",
+    "pourcentage :  terminé l'enseignement primaire": "20,89642641",
+    "pourcentage : diplôme secondaire": "54,99697153",
+    "pourcentage : diplôme universitaire": "24,10660206",
+    "Indice": "103,2101757"
+  },
+  {
+    "Commune": "Reisdorf",
+    "pourcentage :  terminé l'enseignement primaire": "20,73813708",
+    "pourcentage : diplôme secondaire": "64,49912127",
+    "pourcentage : diplôme universitaire": "14,76274165",
+    "Indice": "94,02460457"
+  },
+  {
+    "Commune": "Remich",
+    "pourcentage :  terminé l'enseignement primaire": "24,74546259",
+    "pourcentage : diplôme secondaire": "53,74059318",
+    "pourcentage : diplôme universitaire": "21,51394422",
+    "Indice": "96,76848163"
+  },
+  {
+    "Commune": "Roeser",
+    "pourcentage :  terminé l'enseignement primaire": "15,4855643",
+    "pourcentage : diplôme secondaire": "57,04286964",
+    "pourcentage : diplôme universitaire": "27,47156605",
+    "Indice": "111,9860017"
+  },
+  {
+    "Commune": "Rosport",
+    "pourcentage :  terminé l'enseignement primaire": "19,39304219",
+    "pourcentage : diplôme secondaire": "61,88008882",
+    "pourcentage : diplôme universitaire": "18,72686899",
+    "Indice": "99,33382679"
+  },
+  {
+    "Commune": "Rumelange",
+    "pourcentage :  terminé l'enseignement primaire": "31,17497272",
+    "pourcentage : diplôme secondaire": "58,13022917",
+    "pourcentage : diplôme universitaire": "10,69479811",
+    "Indice": "79,51982539"
+  },
+  {
+    "Commune": "Saeul",
+    "pourcentage :  terminé l'enseignement primaire": "14,4549763",
+    "pourcentage : diplôme secondaire": "54,50236967",
+    "pourcentage : diplôme universitaire": "31,04265403",
+    "Indice": "116,5876777"
+  },
+  {
+    "Commune": "Sandweiler",
+    "pourcentage :  terminé l'enseignement primaire": "13,53846154",
+    "pourcentage : diplôme secondaire": "46,71794872",
+    "pourcentage : diplôme universitaire": "39,74358974",
+    "Indice": "126,2051282"
+  },
+  {
+    "Commune": "Sanem",
+    "pourcentage :  terminé l'enseignement primaire": "24,19336832",
+    "pourcentage : diplôme secondaire": "58,97063749",
+    "pourcentage : diplôme universitaire": "16,83599419",
+    "Indice": "92,64262588"
+  },
+  {
+    "Commune": "Schengen",
+    "pourcentage :  terminé l'enseignement primaire": "18,20999613",
+    "pourcentage : diplôme secondaire": "58,2719876",
+    "pourcentage : diplôme universitaire": "23,51801627",
+    "Indice": "105,3080201"
+  },
+  {
+    "Commune": "Schieren",
+    "pourcentage :  terminé l'enseignement primaire": "24,73233405",
+    "pourcentage : diplôme secondaire": "58,02997859",
+    "pourcentage : diplôme universitaire": "17,23768737",
+    "Indice": "92,50535332"
+  },
+  {
+    "Commune": "Schifflange",
+    "pourcentage :  terminé l'enseignement primaire": "28,26707247",
+    "pourcentage : diplôme secondaire": "56,91459007",
+    "pourcentage : diplôme universitaire": "14,81833745",
+    "Indice": "86,55126498"
+  },
+  {
+    "Commune": "Schuttrange",
+    "pourcentage :  terminé l'enseignement primaire": "8,233532934",
+    "pourcentage : diplôme secondaire": "45,90818363",
+    "pourcentage : diplôme universitaire": "45,85828343",
+    "Indice": "137,6247505"
+  },
+  {
+    "Commune": "Septfontaines",
+    "pourcentage :  terminé l'enseignement primaire": "15,40084388",
+    "pourcentage : diplôme secondaire": "54,85232068",
+    "pourcentage : diplôme universitaire": "29,74683544",
+    "Indice": "114,3459916"
+  },
+  {
+    "Commune": "Stadtbredimus",
+    "pourcentage :  terminé l'enseignement primaire": "16,73189824",
+    "pourcentage : diplôme secondaire": "58,21917808",
+    "pourcentage : diplôme universitaire": "25,04892368",
+    "Indice": "108,3170254"
+  },
+  {
+    "Commune": "Steinfort",
+    "pourcentage :  terminé l'enseignement primaire": "16,79672984",
+    "pourcentage : diplôme secondaire": "54,62653289",
+    "pourcentage : diplôme universitaire": "28,57673727",
+    "Indice": "111,7800074"
+  },
+  {
+    "Commune": "Steinsel",
+    "pourcentage :  terminé l'enseignement primaire": "12,91424667",
+    "pourcentage : diplôme secondaire": "46,87393235",
+    "pourcentage : diplôme universitaire": "40,21182098",
+    "Indice": "127,2975743"
+  },
+  {
+    "Commune": "Strassen",
+    "pourcentage :  terminé l'enseignement primaire": "10,60282172",
+    "pourcentage : diplôme secondaire": "40,01710133",
+    "pourcentage : diplôme universitaire": "49,38007696",
+    "Indice": "138,7772552"
+  },
+  {
+    "Commune": "Tandel",
+    "pourcentage :  terminé l'enseignement primaire": "16,89189189",
+    "pourcentage : diplôme secondaire": "61,87258687",
+    "pourcentage : diplôme universitaire": "21,23552124",
+    "Indice": "104,3436293"
+  },
+  {
+    "Commune": "Troisvierges",
+    "pourcentage :  terminé l'enseignement primaire": "25,70960699",
+    "pourcentage : diplôme secondaire": "57,20524017",
+    "pourcentage : diplôme universitaire": "17,08515284",
+    "Indice": "91,37554585"
+  },
+  {
+    "Commune": "Tuntange",
+    "pourcentage :  terminé l'enseignement primaire": "8,835904628",
+    "pourcentage : diplôme secondaire": "52,73492286",
+    "pourcentage : diplôme universitaire": "38,42917251",
+    "Indice": "129,5932679"
+  },
+  {
+    "Commune": "Useldange",
+    "pourcentage :  terminé l'enseignement primaire": "19,07692308",
+    "pourcentage : diplôme secondaire": "59,28205128",
+    "pourcentage : diplôme universitaire": "21,64102564",
+    "Indice": "102,5641026"
+  },
+  {
+    "Commune": "Vallée de l’Ernz",
+    "pourcentage :  terminé l'enseignement primaire": "20,80679406",
+    "pourcentage : diplôme secondaire": "59,51875442",
+    "pourcentage : diplôme universitaire": "19,67445152",
+    "Indice": "98,86765747"
+  },
+  {
+    "Commune": "Vianden",
+    "pourcentage :  terminé l'enseignement primaire": "29,10447761",
+    "pourcentage : diplôme secondaire": "55,11727079",
+    "pourcentage : diplôme universitaire": "15,7782516",
+    "Indice": "86,67377399"
+  },
+  {
+    "Commune": "Vichten",
+    "pourcentage :  terminé l'enseignement primaire": "16,28959276",
+    "pourcentage : diplôme secondaire": "64,85671192",
+    "pourcentage : diplôme universitaire": "18,85369532",
+    "Indice": "102,5641026"
+  },
+  {
+    "Commune": "Wahl",
+    "pourcentage :  terminé l'enseignement primaire": "19,68503937",
+    "pourcentage : diplôme secondaire": "61,02362205",
+    "pourcentage : diplôme universitaire": "19,29133858",
+    "Indice": "99,60629921"
+  },
+  {
+    "Commune": "Waldbillig",
+    "pourcentage :  terminé l'enseignement primaire": "18,14946619",
+    "pourcentage : diplôme secondaire": "57,88849348",
+    "pourcentage : diplôme universitaire": "23,96204033",
+    "Indice": "105,8125741"
+  },
+  {
+    "Commune": "Waldbredimus",
+    "pourcentage :  terminé l'enseignement primaire": "12,305026",
+    "pourcentage : diplôme secondaire": "55,97920277",
+    "pourcentage : diplôme universitaire": "31,71577123",
+    "Indice": "119,4107452"
+  },
+  {
+    "Commune": "Walferdange",
+    "pourcentage :  terminé l'enseignement primaire": "12,83902012",
+    "pourcentage : diplôme secondaire": "44,46631671",
+    "pourcentage : diplôme universitaire": "42,69466317",
+    "Indice": "129,855643"
+  },
+  {
+    "Commune": "Weiler-la-Tour",
+    "pourcentage :  terminé l'enseignement primaire": "8,199492815",
+    "pourcentage : diplôme secondaire": "53,50803043",
+    "pourcentage : diplôme universitaire": "38,29247675",
+    "Indice": "130,0929839"
+  },
+  {
+    "Commune": "Weiswampach",
+    "pourcentage :  terminé l'enseignement primaire": "21,20879121",
+    "pourcentage : diplôme secondaire": "62,1978022",
+    "pourcentage : diplôme universitaire": "16,59340659",
+    "Indice": "95,38461538"
+  },
+  {
+    "Commune": "Wiltz",
+    "pourcentage :  terminé l'enseignement primaire": "27,85343709",
+    "pourcentage : diplôme secondaire": "56,35538262",
+    "pourcentage : diplôme universitaire": "15,79118029",
+    "Indice": "87,93774319"
+  },
+  {
+    "Commune": "Wincrange",
+    "pourcentage :  terminé l'enseignement primaire": "20,18699533",
+    "pourcentage : diplôme secondaire": "63,28091798",
+    "pourcentage : diplôme universitaire": "16,5320867",
+    "Indice": "96,34509137"
+  },
+  {
+    "Commune": "Winseler",
+    "pourcentage :  terminé l'enseignement primaire": "15,17571885",
+    "pourcentage : diplôme secondaire": "59,90415335",
+    "pourcentage : diplôme universitaire": "24,9201278",
+    "Indice": "109,7444089"
+  },
+  {
+    "Commune": "Wormeldange",
+    "pourcentage :  terminé l'enseignement primaire": "23,30827068",
+    "pourcentage : diplôme secondaire": "52,38095238",
+    "pourcentage : diplôme universitaire": "24,31077694",
+    "Indice": "101,0025063"
+  }
+]
