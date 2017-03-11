@@ -112,18 +112,18 @@
 }
 .k1 .map {
   width: 100%;
+  display: block;
 }
 .k1 .map svg {
   visibility: hidden;
-  position: absolute;
+  width: 100%;
 }
 .k1 .map svg path:hover {
-  color: orange;
   pointer-events: all;
-  fill: orange;
+  fill: #ea5b0c;
 }
-.k1 .map svg #Map {
-  width: 100%;
+.k1 .map svg path[selected="selected"] {
+  fill: #00537b;
 }
 .k1 .map img {
   width: 100%;
