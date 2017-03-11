@@ -21,21 +21,18 @@
   }
 
   function pathname() {
-      $('path').each(function () {
-          return $(this).attr('name')
+      $('path').map(function () {
+          communelist.push($(this).attr('name'))
       })
   }
   jQuery(document).ready(function () {
       svgSizer();
       contentSizer();
       /*** Load Communes Names from map into an array ***/
-      $('path').map(function () {
-              communelist.push($(this).attr('name'))
-          })
-          /*** Commune Selected ***/
+      pathname();
+      /*** Commune Selected ***/
       $('path').on('click', function () {
           $('path').removeAttr('selected');
           $(this).attr('selected', 'true')
       })
   })
-  localStorage.setItem('data', '123')
