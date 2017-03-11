@@ -2,11 +2,11 @@
     importData();
 })
 
-var communes = {
-    "Bourscheid":[],
-    "Bous":[],
-    "Clervaux":[],
-    /*"Colmar-Berg",
+var communes = [
+    "Bourscheid",
+    "Bous",
+    /*"Clervaux",
+    "Colmar-Berg",
     "Consdorf",
     "Contern",
     "Dalheim",
@@ -95,31 +95,23 @@ var communes = {
     "Wiltz",
     "Wincrange",
     "Winseler",*/
-    "Wormeldange":[]
-};
+    "Wormeldange"
+];
 
 function importData() {
 
     
     var files = [
-   //"https://raw.githubusercontent.com/ginma89/GoC/master/data/json/accidents.json",
-   "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/migrations.json"
+   //"https://raw.githubusercontent.com/ginma89/GoC/master/data/NewJson/accidents.json",
+   "https://raw.githubusercontent.com/ginma89/GoC/master/data/NewJson/dechetsMenages.json"
     ];
 
-    for (var i = 0; i < /*communes.length*/2; i++) {
-        console.log(communes[0]);
-        for (var j = 0; j < files.length; j++)
-           
-            //console.log(data);
-                $.each(data, function (key, value) {
-                    
-                 });
-            // });
-
-
-        });
-    }
-}
+    for(var i=0;i</*communes.length*/2;i++){
+        for (var j = 0; j <files.length; j++) {
+            $.getJSON( "ajax/test.json", function( data ) {
+            });
+            }
+};
 
 
 
