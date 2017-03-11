@@ -1,0 +1,737 @@
+[
+  {
+    "Commune": "Beaufort",
+    "Nombre de ventes": 3,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Bech",
+    "Nombre de ventes": 1,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Beckerich",
+    "Nombre de ventes": 9,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 3
+  },
+  {
+    "Commune": "Berdorf",
+    "Nombre de ventes": 8,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Bertrange",
+    "Nombre de ventes": 26,
+    "Prix moyen au m²": "7 092 €",
+    "Fourchette de prix au m²": "6252 € - 8613 €",
+    "Nombre de VEFA": 24
+  },
+  {
+    "Commune": "Bettembourg",
+    "Nombre de ventes": 53,
+    "Prix moyen au m²": "5 474 €",
+    "Fourchette de prix au m²": "3751 € - 6717 €",
+    "Nombre de VEFA": 25
+  },
+  {
+    "Commune": "Bettendorf",
+    "Nombre de ventes": 11,
+    "Prix moyen au m²": "4 236 €",
+    "Fourchette de prix au m²": "3031 € - 5263 €",
+    "Nombre de VEFA": 11
+  },
+  {
+    "Commune": "Betzdorf",
+    "Nombre de ventes": 7,
+    "Prix moyen au m²": "5 609 €",
+    "Fourchette de prix au m²": "5069 € - 6519 €",
+    "Nombre de VEFA": 24
+  },
+  {
+    "Commune": "Bissen",
+    "Nombre de ventes": 17,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 6
+  },
+  {
+    "Commune": "Biwer",
+    "Nombre de ventes": 1,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Boevange-sur-Attert",
+    "Nombre de ventes": 2,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 3
+  },
+  {
+    "Commune": "Boulaide",
+    "Nombre de ventes": 3,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Bourscheid",
+    "Nombre de ventes": 0,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Bous",
+    "Nombre de ventes": 11,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 1
+  },
+  {
+    "Commune": "Clervaux",
+    "Nombre de ventes": 15,
+    "Prix moyen au m²": "3 518 €",
+    "Fourchette de prix au m²": "2577 € - 4046 €",
+    "Nombre de VEFA": 13
+  },
+  {
+    "Commune": "Colmar-Berg",
+    "Nombre de ventes": 19,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Consdorf",
+    "Nombre de ventes": 3,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Contern",
+    "Nombre de ventes": 17,
+    "Prix moyen au m²": "6 339 €",
+    "Fourchette de prix au m²": "5608 € - 7752 €",
+    "Nombre de VEFA": 14
+  },
+  {
+    "Commune": "Dalheim",
+    "Nombre de ventes": 7,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 4
+  },
+  {
+    "Commune": "Diekirch",
+    "Nombre de ventes": 36,
+    "Prix moyen au m²": "4 827 €",
+    "Fourchette de prix au m²": "4143 € - 5698 €",
+    "Nombre de VEFA": 24
+  },
+  {
+    "Commune": "Differdange",
+    "Nombre de ventes": 210,
+    "Prix moyen au m²": "4 174 €",
+    "Fourchette de prix au m²": "3081 € - 5065 €",
+    "Nombre de VEFA": 90
+  },
+  {
+    "Commune": "Dippach",
+    "Nombre de ventes": 16,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 1
+  },
+  {
+    "Commune": "Dudelange",
+    "Nombre de ventes": 130,
+    "Prix moyen au m²": "5 259 €",
+    "Fourchette de prix au m²": "3871 € - 5945 €",
+    "Nombre de VEFA": 66
+  },
+  {
+    "Commune": "Echternach",
+    "Nombre de ventes": 18,
+    "Prix moyen au m²": "5 154 €",
+    "Fourchette de prix au m²": "4972 € - 5702 €",
+    "Nombre de VEFA": 11
+  },
+  {
+    "Commune": "Ell",
+    "Nombre de ventes": 3,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Erpeldange",
+    "Nombre de ventes": 6,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Esch-sur-Alzette",
+    "Nombre de ventes": 264,
+    "Prix moyen au m²": "5 613 €",
+    "Fourchette de prix au m²": "3951 € - 7070 €",
+    "Nombre de VEFA": 76
+  },
+  {
+    "Commune": "Esch-sur-Sûre",
+    "Nombre de ventes": 5,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Ettelbruck",
+    "Nombre de ventes": 66,
+    "Prix moyen au m²": "5 100 €",
+    "Fourchette de prix au m²": "3846 € - 5775 €",
+    "Nombre de VEFA": 14
+  },
+  {
+    "Commune": "Feulen",
+    "Nombre de ventes": 0,
+    "Prix moyen au m²": "4 127 €",
+    "Fourchette de prix au m²": "2973 € - 4732 €",
+    "Nombre de VEFA": 13
+  },
+  {
+    "Commune": "Fischbach",
+    "Nombre de ventes": 5,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Flaxweiler",
+    "Nombre de ventes": 1,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Frisange",
+    "Nombre de ventes": 31,
+    "Prix moyen au m²": "5 049 €",
+    "Fourchette de prix au m²": "4294 € - 5954 €",
+    "Nombre de VEFA": 15
+  },
+  {
+    "Commune": "Garnich",
+    "Nombre de ventes": 0,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Goesdorf",
+    "Nombre de ventes": 2,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Grevenmacher",
+    "Nombre de ventes": 33,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Grosbous",
+    "Nombre de ventes": 3,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 5
+  },
+  {
+    "Commune": "Heffingen",
+    "Nombre de ventes": 2,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 1
+  },
+  {
+    "Commune": "Hesperange",
+    "Nombre de ventes": 100,
+    "Prix moyen au m²": "6 159 €",
+    "Fourchette de prix au m²": "5031 € - 7822 €",
+    "Nombre de VEFA": 16
+  },
+  {
+    "Commune": "Hobscheid",
+    "Nombre de ventes": 15,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 5
+  },
+  {
+    "Commune": "Junglinster",
+    "Nombre de ventes": 15,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 3
+  },
+  {
+    "Commune": "Kaerjeng",
+    "Nombre de ventes": 51,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 6
+  },
+  {
+    "Commune": "Kayl",
+    "Nombre de ventes": 65,
+    "Prix moyen au m²": "4 424 €",
+    "Fourchette de prix au m²": "3389 € - 5196 €",
+    "Nombre de VEFA": 22
+  },
+  {
+    "Commune": "Kehlen",
+    "Nombre de ventes": 6,
+    "Prix moyen au m²": "5 484 €",
+    "Fourchette de prix au m²": "4180 € - 6467 €",
+    "Nombre de VEFA": 37
+  },
+  {
+    "Commune": "Kiischpelt",
+    "Nombre de ventes": 2,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Koerich",
+    "Nombre de ventes": 4,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Kopstal",
+    "Nombre de ventes": 11,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 7
+  },
+  {
+    "Commune": "Lac de la Haute-Sûre",
+    "Nombre de ventes": 2,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Larochette",
+    "Nombre de ventes": 11,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 7
+  },
+  {
+    "Commune": "Lenningen",
+    "Nombre de ventes": 5,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Leudelange",
+    "Nombre de ventes": 29,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Lintgen",
+    "Nombre de ventes": 20,
+    "Prix moyen au m²": "4 948 €",
+    "Fourchette de prix au m²": "4027 € - 5705 €",
+    "Nombre de VEFA": 20
+  },
+  {
+    "Commune": "Lorentzweiler",
+    "Nombre de ventes": 15,
+    "Prix moyen au m²": "5 567 €",
+    "Fourchette de prix au m²": "4009 € - 6963 €",
+    "Nombre de VEFA": 14
+  },
+  {
+    "Commune": "Luxembourg-Ville",
+    "Nombre de ventes": 479,
+    "Prix moyen au m²": "6 834 €",
+    "Fourchette de prix au m²": "5507 € - 8575 €",
+    "Nombre de VEFA": 469
+  },
+  {
+    "Commune": "Mamer",
+    "Nombre de ventes": 33,
+    "Prix moyen au m²": "6 002 €",
+    "Fourchette de prix au m²": "4965 € - 6767 €",
+    "Nombre de VEFA": 83
+  },
+  {
+    "Commune": "Manternach",
+    "Nombre de ventes": 0,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 2
+  },
+  {
+    "Commune": "Mersch",
+    "Nombre de ventes": 52,
+    "Prix moyen au m²": "5 240 €",
+    "Fourchette de prix au m²": "3403 € - 5981 €",
+    "Nombre de VEFA": 28
+  },
+  {
+    "Commune": "Mertert",
+    "Nombre de ventes": 26,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 1
+  },
+  {
+    "Commune": "Mertzig",
+    "Nombre de ventes": 6,
+    "Prix moyen au m²": "5 641 €",
+    "Fourchette de prix au m²": "5271 € - 6313 €",
+    "Nombre de VEFA": 14
+  },
+  {
+    "Commune": "Mompach",
+    "Nombre de ventes": 0,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Mondercange",
+    "Nombre de ventes": 37,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 6
+  },
+  {
+    "Commune": "Mondorf-les-Bains",
+    "Nombre de ventes": 43,
+    "Prix moyen au m²": "5 450 €",
+    "Fourchette de prix au m²": "4858 € - 6137 €",
+    "Nombre de VEFA": 56
+  },
+  {
+    "Commune": "Niederanven",
+    "Nombre de ventes": 5,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 1
+  },
+  {
+    "Commune": "Nommern",
+    "Nombre de ventes": 3,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Parc Hosingen",
+    "Nombre de ventes": 10,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 4
+  },
+  {
+    "Commune": "Petange",
+    "Nombre de ventes": 116,
+    "Prix moyen au m²": "4 295 €",
+    "Fourchette de prix au m²": "3339 € - 5294 €",
+    "Nombre de VEFA": 81
+  },
+  {
+    "Commune": "Preizerdaul",
+    "Nombre de ventes": 5,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 3
+  },
+  {
+    "Commune": "Putscheid",
+    "Nombre de ventes": 0,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Rambrouch",
+    "Nombre de ventes": 2,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 1
+  },
+  {
+    "Commune": "Reckange-sur-Mess",
+    "Nombre de ventes": 10,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Redange",
+    "Nombre de ventes": 13,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 2
+  },
+  {
+    "Commune": "Reisdorf",
+    "Nombre de ventes": 1,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Remich",
+    "Nombre de ventes": 31,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 2
+  },
+  {
+    "Commune": "Roeser",
+    "Nombre de ventes": 51,
+    "Prix moyen au m²": "5 472 €",
+    "Fourchette de prix au m²": "5102 € - 5892 €",
+    "Nombre de VEFA": 10
+  },
+  {
+    "Commune": "Rosport",
+    "Nombre de ventes": 6,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Rumelange",
+    "Nombre de ventes": 27,
+    "Prix moyen au m²": "4 496 €",
+    "Fourchette de prix au m²": "3797 € - 6230 €",
+    "Nombre de VEFA": 12
+  },
+  {
+    "Commune": "Saeul",
+    "Nombre de ventes": 6,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Sandweiler",
+    "Nombre de ventes": 11,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Sanem",
+    "Nombre de ventes": 97,
+    "Prix moyen au m²": "4 810 €",
+    "Fourchette de prix au m²": "4095 € - 6369 €",
+    "Nombre de VEFA": 69
+  },
+  {
+    "Commune": "Schengen",
+    "Nombre de ventes": 18,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Schieren",
+    "Nombre de ventes": 6,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Schifflange",
+    "Nombre de ventes": 56,
+    "Prix moyen au m²": "4 872 €",
+    "Fourchette de prix au m²": "4179 € - 5792 €",
+    "Nombre de VEFA": 177
+  },
+  {
+    "Commune": "Schuttrange",
+    "Nombre de ventes": 15,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 3
+  },
+  {
+    "Commune": "Septfontaines",
+    "Nombre de ventes": 0,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Stadtbredimus",
+    "Nombre de ventes": 8,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Steinfort",
+    "Nombre de ventes": 15,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 4
+  },
+  {
+    "Commune": "Steinsel",
+    "Nombre de ventes": 19,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 8
+  },
+  {
+    "Commune": "Strassen",
+    "Nombre de ventes": 57,
+    "Prix moyen au m²": "7 198 €",
+    "Fourchette de prix au m²": "5902 € - 8854 €",
+    "Nombre de VEFA": 55
+  },
+  {
+    "Commune": "Tandel",
+    "Nombre de ventes": 5,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 1
+  },
+  {
+    "Commune": "Troisvierges",
+    "Nombre de ventes": 8,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 6
+  },
+  {
+    "Commune": "Tuntange",
+    "Nombre de ventes": 2,
+    "Prix moyen au m²": "4 485 €",
+    "Fourchette de prix au m²": "3366 € - 5057 €",
+    "Nombre de VEFA": 15
+  },
+  {
+    "Commune": "Useldange",
+    "Nombre de ventes": 4,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Vallée de l'Ernz",
+    "Nombre de ventes": 10,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 1
+  },
+  {
+    "Commune": "Vianden",
+    "Nombre de ventes": 8,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 1
+  },
+  {
+    "Commune": "Vichten",
+    "Nombre de ventes": 4,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Wahl",
+    "Nombre de ventes": 0,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Waldbillig",
+    "Nombre de ventes": 1,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Waldbredimus",
+    "Nombre de ventes": 2,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Walferdange",
+    "Nombre de ventes": 47,
+    "Prix moyen au m²": "6 329 €",
+    "Fourchette de prix au m²": "5838 € - 6716 €",
+    "Nombre de VEFA": 15
+  },
+  {
+    "Commune": "Weiler-la-Tour",
+    "Nombre de ventes": 11,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 0
+  },
+  {
+    "Commune": "Weiswampach",
+    "Nombre de ventes": 5,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 5
+  },
+  {
+    "Commune": "Wiltz",
+    "Nombre de ventes": 19,
+    "Prix moyen au m²": "3 994 €",
+    "Fourchette de prix au m²": "3851 € - 4208 €",
+    "Nombre de VEFA": 11
+  },
+  {
+    "Commune": "Wincrange",
+    "Nombre de ventes": 3,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 1
+  },
+  {
+    "Commune": "Winseler",
+    "Nombre de ventes": 6,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 8
+  },
+  {
+    "Commune": "Wormeldange",
+    "Nombre de ventes": 8,
+    "Prix moyen au m²": "*",
+    "Fourchette de prix au m²": "*",
+    "Nombre de VEFA": 4
+  }
+]
