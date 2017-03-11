@@ -105,7 +105,7 @@ var communes = [
 ];
 
 function importData() {
-<<<<<<< HEAD
+
     var files = [
    //"https://raw.githubusercontent.com/ginma89/GoC/master/data/NewJson/accidents.json",
    "https://raw.githubusercontent.com/ginma89/GoC/master/data/NewJson/dechetsMenages.json"
@@ -119,12 +119,12 @@ function importData() {
 };
 
 
-=======
+
     for (var i = 0; i < communes.length; i++) {
         for (var j = 0; j < 1; j++) {
 
         }
     }
 }
->>>>>>> master
+
 
