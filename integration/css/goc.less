@@ -132,16 +132,18 @@
     }
     .map {
         width: 100%;
+        display: block;
         svg {
             visibility: hidden;
-            position: absolute;
+            width: 100%;
+            //   position: absolute;
             path:hover {
-                color: orange;
                 pointer-events: all;
-                fill:orange;
+                fill: @COLOR_Orange;
+                //  stroke: @COLOR_White;
             }
-            #Map {
-                width: 100%;
+            path[selected="selected"] {
+                fill: @COLOR_Blue;
             }
         }
         img {
