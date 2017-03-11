@@ -1,6 +1,7 @@
-﻿jQuery(document).ready(function () {
-    importData();
+jQuery(document).ready(function () {
+    //  importData();
 })
+var communesdata = {};
 
 var files = [
     "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/accidents.json",
@@ -104,10 +105,26 @@ var communes = [
 ];
 
 function importData() {
+<<<<<<< HEAD
+    var files = [
+   //"https://raw.githubusercontent.com/ginma89/GoC/master/data/NewJson/accidents.json",
+   "https://raw.githubusercontent.com/ginma89/GoC/master/data/NewJson/dechetsMenages.json"
+    ];
+
+    for(var i=0;i</*communes.length*/2;i++){
+        for (var j = 0; j <files.length; j++) {
+            $.getJSON( "ajax/test.json", function( data ) {
+            });
+            }
+};
+
+
+=======
     for (var i = 0; i < communes.length; i++) {
         for (var j = 0; j < 1; j++) {
 
         }
     }
 }
+>>>>>>> master
 
