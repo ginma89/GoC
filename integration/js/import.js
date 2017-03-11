@@ -1,17 +1,14 @@
-var communesdata = {};
+var communesdata = [];
+var datasource = {};
+var data = [];
 var files = [
-    "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/accidents.json"
-    , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/dechetsMenagers.json"
+   "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/accidents.json"
+   /*  "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/dechetsMenagers.json" */
 ];
-
+/*http://api.jquery.com/jQuery.getJSON/*/
 function importData() {
-    for (var i = 0; i < communelist.length; i++) {
-        for (var j = 0; j < files.length; j++) {
-            $.getJSON(files[j], function (data) {
-                console.log(data);
-            });
-        }
-    };
+    datasource = $.getJSON(files[0], function (result) {});
+    data.push(result.responseJSON);
 }
 jQuery(document).ready(function () {
     importData();
