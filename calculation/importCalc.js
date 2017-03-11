@@ -25,5 +25,3 @@ function tauxDeMortalite(x) {
 localStorage.setItem("test", "data data data data data data data data ");
 
 var localTest = localStorage.getItem("test");
-
-console.log(tauxDeMortalite());
