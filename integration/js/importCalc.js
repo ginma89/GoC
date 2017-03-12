@@ -5,6 +5,8 @@ var chomage = [];
 var mortNat = [];
 var diplomes = [];
 
+var count = 0;
+
 var files = [
    "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/accidents.json",
     "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/dechetsMenages.json",
@@ -37,44 +39,54 @@ function tauxDiplome(x) {
     return Math.abs(Math.ceil((x - 72.271) * (1 / 0.70984)));
 }
 
-function getDataFromUrl(url, param) {
+function getDataFromUrl(url, param, identifier) {
     var fetchdata = $.getJSON(url, function (fetch) {
         $.each(fetch, function (key, val) {
             param[val.Commune] = val;
-        })
+        });
+        communesdata.push(param);
+        /////////////////
+        ultraCalc(param, identifier);
+        /////////////////
     });
-    fetchdata.done(function (result) {
-        communesdata.push(result);
+    fetchdata.done(function () {
+        //console.log('ok');
     });
 }
 
-function mergeArray(array) {
-    var output = [];
-    array.forEach(function (value) {
-        var existing = output.filter(function (v, i) {
-            return v.name == value.name;
-        });
-        if (existing.length) {
-            var existingIndex = output.indexOf(existing[0]);
-            output[existingIndex].value = output[existingIndex].value.concat(value.value);
-        } else {
-            if (typeof value.value == 'string')
-                value.value = [value.value];
-            output.push(value);
+function ultraCalc(param, identifier) {
+    //ACCIDENTS
+    if (identifier == 'accidents') {
+        for (var key in param) {
+            param['accidentNote'] = accidentsCorporels(param['Accidents corporels_2015']);
+            console.log(param['Accidents corporels_2015']);
         }
-    });
-
-    return output;
+    }
+    //DECHETS
+    if (identifier == 'dechets') {
+        console.log('it is accident');
+    }
+    //CHOMAGE
+    if (identifier == 'chomage') {
+        console.log('it is accident');
+    }
+    //NAISSANCES DECES
+    if (identifier == 'mortNat') {
+        console.log('it is accident');
+    }
+    //DIPLOMES
+    if (identifier == 'diplomes') {
+        console.log('it is accident');
+    }
 }
 
 jQuery(document).ready(function () {
 
-    getDataFromUrl(files[0], accidents);
-    getDataFromUrl(files[1], dechets);
-    getDataFromUrl(files[2], chomage);
-    getDataFromUrl(files[3], mortNat);
-    getDataFromUrl(files[4], diplomes);
+    getDataFromUrl(files[0], accidents, 'accidents');
+    getDataFromUrl(files[1], dechets, 'dechets');
+    getDataFromUrl(files[2], chomage, 'chomage');
+    getDataFromUrl(files[3], mortNat, 'mortNat');
+    getDataFromUrl(files[4], diplomes, 'diplomes');
 
-    mergeArray(communesdata);
-
+    
 })
