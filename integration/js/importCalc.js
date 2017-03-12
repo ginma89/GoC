@@ -87,6 +87,11 @@ function ultraCalc(param, identifier) {
         }
     }
 }
+
+function parseData() {
+    
+}
+
 jQuery(document).ready(function () {
         getDataFromUrl(files[0], accidents, 'accidents');
         getDataFromUrl(files[1], dechets, 'dechets');
@@ -97,6 +102,12 @@ jQuery(document).ready(function () {
     /***
 
 
+    setTimeout(function () {
+        parseData();
+    }, 800);
+
+    
+})
       /*** parsedata ****/
 var paramsfetch = ['naissanceNote', 'deces']
 for (var i = 0; i < communesdata.length; i++) {
