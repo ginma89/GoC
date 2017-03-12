@@ -1,4 +1,4 @@
-var communesdata = [];
+﻿var communesdata = [];
 var accidents = [];
 var dechets = [];
 var chomage = [];
@@ -6,7 +6,7 @@ var mortNat = [];
 var diplomes = [];
 var count = 0;
 var files = [
-   "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/accidents.json"
+    "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/accidents.json"
     , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/dechetsMenages.json"
     , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/EmploiEtChomagepParCantonEtParCommune.json"
     , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/taux%20de%20mortalit%C3%A9%20et%20natalit%C3%A9.json"
@@ -49,7 +49,7 @@ function getDataFromUrl(url, param, identifier) {
         ultraCalc(param, identifier);
         /////////////////
     });
-    fetchdata.done(function () {});
+    fetchdata.done(function () { });
 }
 
 function ultraCalc(param, identifier) {
@@ -88,32 +88,31 @@ function ultraCalc(param, identifier) {
     }
 }
 
-function parseData() {
-    
+function parseData(fetchParam) {
+    var newData = {};
+    for (var i = 0; i < communesdata.length; i++) {
+        //console.log(communesdata[i]);
+        for (var commune in communesdata[i]) {
+            if (fetchParam == 'accidents') {
+                newData[commune] = {};
+                newData[commune].accidentsNote = communesdata[i][commune].accidentsNote;
+                console.log(newData);
+            }
+            //console.log(communesdata[i][commune].accidentsNote);
+        }
+    }
+    console.log(newData);
 }
 
-jQuery(document).ready(function () {
-        getDataFromUrl(files[0], accidents, 'accidents');
-        getDataFromUrl(files[1], dechets, 'dechets');
-        getDataFromUrl(files[2], chomage, 'chomage');
-        getDataFromUrl(files[3], mortNat, 'mortNat');
-        getDataFromUrl(files[4], diplomes, 'diplomes');
-    })
-    /***
+function fusionn() {
+    var finaldico = Object.assign(communesdata[0], communesdata[1], communesdata[2], communesdata[3])
+}
 
-
-    setTimeout(function () {
-        parseData();
-    }, 800);
-
-    
-})
-      /*** parsedata ****/
-var paramsfetch = ['naissanceNote', 'deces']
-for (var i = 0; i < communesdata.length; i++) {
-    var parsedata = [];
-    parsedata = communesdata[i];
-    for (var j = 0; j < communelist.length; j++) {
+function parseData2() {
+    var paramsfetch = ['accidentsNote'];
+    for (var i = 0; i < communesdata.length; i++) {
+        var parsedata = [];
+        parsedata = communesdata[i];
         for (var j = 0; j < communelist.length; j++) {
             var parseobjetdata = [];
             var fetchcommune = communelist[j]
@@ -123,3 +122,25 @@ for (var i = 0; i < communesdata.length; i++) {
         }
     }
 }
+
+function parseDiplomes() {
+    for (var commune in diplomes) {
+        console.log(diplomes[commune]);
+    }
+}
+
+jQuery(document).ready(function () {
+    getDataFromUrl(files[0], accidents, 'accidents');
+    getDataFromUrl(files[1], dechets, 'dechets');
+    getDataFromUrl(files[2], chomage, 'chomage');
+    getDataFromUrl(files[3], mortNat, 'mortNat');
+    getDataFromUrl(files[4], diplomes, 'diplomes');
+
+    setTimeout(function () {
+        parseDiplomes();
+        //parseData('accidents');
+    }, 800);
+
+})
+
+/*** parsedata ****/
