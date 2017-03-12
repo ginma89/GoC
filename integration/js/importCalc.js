@@ -58,8 +58,8 @@ function ultraCalc(param, identifier) {
     //ACCIDENTS
     if (identifier == 'accidents') {
         for (var key in param) {
-            param['accidentNote'] = accidentsCorporels(param['Accidents corporels_2015']);
-            console.log(param['Accidents corporels_2015']);
+            //param.accidentNote = accidentsCorporels(param.'2015');
+            console.log(param['accidentNote']);
         }
     }
     //DECHETS
