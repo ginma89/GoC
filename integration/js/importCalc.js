@@ -58,25 +58,35 @@ function ultraCalc(param, identifier) {
     //ACCIDENTS
     if (identifier == 'accidents') {
         for (var key in param) {
-            //param.accidentNote = accidentsCorporels(param.'2015');
-            console.log(param['accidentNote']);
+            param[key].accidentsNote = accidentsCorporels(param[key].a2015);
         }
     }
     //DECHETS
     if (identifier == 'dechets') {
-        console.log('it is accident');
+        for (var key in param) {
+            param[key].dechetsNote = garbagePerHabitant(param[key].a2015);
+        }
     }
     //CHOMAGE
     if (identifier == 'chomage') {
-        console.log('it is accident');
+        for (var key in param) {
+            param[key].chomageNote = tauxDeChomage(param[key].a2015);
+        }
     }
     //NAISSANCES DECES
     if (identifier == 'mortNat') {
-        console.log('it is accident');
+        for (var key in param) {
+            param[key].mortNote = tauxDeMortalite(param[key].a2015);
+        };
+        for (var key in param) {
+            param[key].naissanceNote = tauxDeNatalite(param[key].a2015);
+        }
     }
     //DIPLOMES
     if (identifier == 'diplomes') {
-        console.log('it is accident');
+        for (var key in param) {
+            param[key].diplomesNote = tauxDiplome(param[key].a2015);
+        }
     }
 }
 

@@ -6,7 +6,7 @@
     "dont: Non-Salariés": 160,
     "Chômeurs": 106,
     "Population active": 1886,
-    "Taux de chômage (en %)": "5,620360551"
+    "tauxChomage": "5,620360551"
   },
   {
     "Commune": "Garnich",
@@ -15,7 +15,7 @@
     "dont: Non-Salariés": 90,
     "Chômeurs": 29,
     "Population active": 899,
-    "Taux de chômage (en %)": "3,225806452"
+    "tauxChomage": "3,225806452"
   },
   {
     "Commune": "Hobscheid",
@@ -24,7 +24,7 @@
     "dont: Non-Salariés": 120,
     "Chômeurs": 73,
     "Population active": 1543,
-    "Taux de chômage (en %)": "4,731043422"
+    "tauxChomage": "4,731043422"
   },
   {
     "Commune": "Käerjeng",
@@ -33,7 +33,7 @@
     "dont: Non-Salariés": 310,
     "Chômeurs": 260,
     "Population active": 4390,
-    "Taux de chômage (en %)": "5,922551253"
+    "tauxChomage": "5,922551253"
   },
   {
     "Commune": "Kehlen",
@@ -42,7 +42,7 @@
     "dont: Non-Salariés": 260,
     "Chômeurs": 80,
     "Population active": 2250,
-    "Taux de chômage (en %)": "3,555555556"
+    "tauxChomage": "3,555555556"
   },
   {
     "Commune": "Koerich",
@@ -51,7 +51,7 @@
     "dont: Non-Salariés": 130,
     "Chômeurs": 41,
     "Population active": 1091,
-    "Taux de chômage (en %)": "3,758020165"
+    "tauxChomage": "3,758020165"
   },
   {
     "Commune": "Kopstal",
@@ -60,7 +60,7 @@
     "dont: Non-Salariés": 200,
     "Chômeurs": 72,
     "Population active": 1372,
-    "Taux de chômage (en %)": "5,247813411"
+    "tauxChomage": "5,247813411"
   },
   {
     "Commune": "Mamer",
@@ -69,7 +69,7 @@
     "dont: Non-Salariés": 370,
     "Chômeurs": 169,
     "Population active": 3309,
-    "Taux de chômage (en %)": "5,107283167"
+    "tauxChomage": "5,107283167"
   },
   {
     "Commune": "Septfontaines",
@@ -78,7 +78,7 @@
     "dont: Non-Salariés": 50,
     "Chômeurs": 26,
     "Population active": 396,
-    "Taux de chômage (en %)": "6,565656566"
+    "tauxChomage": "6,565656566"
   },
   {
     "Commune": "Steinfort",
@@ -87,7 +87,7 @@
     "dont: Non-Salariés": 190,
     "Chômeurs": 132,
     "Population active": 2162,
-    "Taux de chômage (en %)": "6,105457909"
+    "tauxChomage": "6,105457909"
   },
   {
     "Commune": "Bettembourg",
@@ -96,7 +96,7 @@
     "dont: Non-Salariés": 310,
     "Chômeurs": 308,
     "Population active": 4588,
-    "Taux de chômage (en %)": "6,713164778"
+    "tauxChomage": "6,713164778"
   },
   {
     "Commune": "Differdange",
@@ -105,7 +105,7 @@
     "dont: Non-Salariés": 410,
     "Chômeurs": 1317,
     "Population active": 11527,
-    "Taux de chômage (en %)": "11,42534918"
+    "tauxChomage": "11,42534918"
   },
   {
     "Commune": "Dudelange",
@@ -114,7 +114,7 @@
     "dont: Non-Salariés": 480,
     "Chômeurs": 768,
     "Population active": 9008,
-    "Taux de chômage (en %)": "8,525754885"
+    "tauxChomage": "8,525754885"
   },
   {
     "Commune": "Esch-sur-Alzette",
@@ -123,7 +123,7 @@
     "dont: Non-Salariés": 710,
     "Chômeurs": 2031,
     "Population active": 15341,
-    "Taux de chômage (en %)": "13,23903266"
+    "tauxChomage": "13,23903266"
   },
   {
     "Commune": "Frisange",
@@ -132,7 +132,7 @@
     "dont: Non-Salariés": 170,
     "Chômeurs": 120,
     "Population active": 2120,
-    "Taux de chômage (en %)": "5,660377358"
+    "tauxChomage": "5,660377358"
   },
   {
     "Commune": "Kayl",
@@ -141,7 +141,7 @@
     "dont: Non-Salariés": 200,
     "Chômeurs": 300,
     "Population active": 3980,
-    "Taux de chômage (en %)": "7,537688442"
+    "tauxChomage": "7,537688442"
   },
   {
     "Commune": "Leudelange",
@@ -150,7 +150,7 @@
     "dont: Non-Salariés": 150,
     "Chômeurs": 41,
     "Population active": 1171,
-    "Taux de chômage (en %)": "3,501280956"
+    "tauxChomage": "3,501280956"
   },
   {
     "Commune": "Mondercange",
@@ -159,7 +159,7 @@
     "dont: Non-Salariés": 260,
     "Chômeurs": 136,
     "Population active": 2866,
-    "Taux de chômage (en %)": "4,745289602"
+    "tauxChomage": "4,745289602"
   },
   {
     "Commune": "Pétange",
@@ -168,7 +168,7 @@
     "dont: Non-Salariés": 370,
     "Chômeurs": 725,
     "Population active": 8015,
-    "Taux de chômage (en %)": "9,045539613"
+    "tauxChomage": "9,045539613"
   },
   {
     "Commune": "Reckange-sur-Mess",
@@ -177,7 +177,7 @@
     "dont: Non-Salariés": 130,
     "Chômeurs": 32,
     "Population active": 1012,
-    "Taux de chômage (en %)": "3,162055336"
+    "tauxChomage": "3,162055336"
   },
   {
     "Commune": "Roeser",
@@ -186,7 +186,7 @@
     "dont: Non-Salariés": 240,
     "Chômeurs": 140,
     "Population active": 2890,
-    "Taux de chômage (en %)": "4,844290657"
+    "tauxChomage": "4,844290657"
   },
   {
     "Commune": "Rumelange",
@@ -195,7 +195,7 @@
     "dont: Non-Salariés": 100,
     "Chômeurs": 269,
     "Population active": 2399,
-    "Taux de chômage (en %)": "11,21300542"
+    "tauxChomage": "11,21300542"
   },
   {
     "Commune": "Sanem",
@@ -204,7 +204,7 @@
     "dont: Non-Salariés": 370,
     "Chômeurs": 512,
     "Population active": 7112,
-    "Taux de chômage (en %)": "7,199100112"
+    "tauxChomage": "7,199100112"
   },
   {
     "Commune": "Schifflange",
@@ -213,7 +213,7 @@
     "dont: Non-Salariés": 200,
     "Chômeurs": 377,
     "Population active": 4377,
-    "Taux de chômage (en %)": "8,613205392"
+    "tauxChomage": "8,613205392"
   },
   {
     "Commune": "Bertrange",
@@ -222,7 +222,7 @@
     "dont: Non-Salariés": 350,
     "Chômeurs": 168,
     "Population active": 3138,
-    "Taux de chômage (en %)": "5,353728489"
+    "tauxChomage": "5,353728489"
   },
   {
     "Commune": "Contern",
@@ -231,7 +231,7 @@
     "dont: Non-Salariés": 150,
     "Chômeurs": 69,
     "Population active": 1489,
-    "Taux de chômage (en %)": "4,633982539"
+    "tauxChomage": "4,633982539"
   },
   {
     "Commune": "Hesperange",
@@ -240,7 +240,7 @@
     "dont: Non-Salariés": 610,
     "Chômeurs": 383,
     "Population active": 6543,
-    "Taux de chômage (en %)": "5,853583983"
+    "tauxChomage": "5,853583983"
   },
   {
     "Commune": "Luxembourg",
@@ -249,7 +249,7 @@
     "dont: Non-Salariés": 4140,
     "Chômeurs": 3571,
     "Population active": 45221,
-    "Taux de chômage (en %)": "7,896773623"
+    "tauxChomage": "7,896773623"
   },
   {
     "Commune": "Niederanven",
@@ -258,7 +258,7 @@
     "dont: Non-Salariés": 320,
     "Chômeurs": 93,
     "Population active": 2013,
-    "Taux de chômage (en %)": "4,619970194"
+    "tauxChomage": "4,619970194"
   },
   {
     "Commune": "Sandweiler",
@@ -267,7 +267,7 @@
     "dont: Non-Salariés": 140,
     "Chômeurs": 75,
     "Population active": 1455,
-    "Taux de chômage (en %)": "5,154639175"
+    "tauxChomage": "5,154639175"
   },
   {
     "Commune": "Schuttrange",
@@ -276,7 +276,7 @@
     "dont: Non-Salariés": 170,
     "Chômeurs": 70,
     "Population active": 1510,
-    "Taux de chômage (en %)": "4,635761589"
+    "tauxChomage": "4,635761589"
   },
   {
     "Commune": "Steinsel",
@@ -285,7 +285,7 @@
     "dont: Non-Salariés": 210,
     "Chômeurs": 107,
     "Population active": 2057,
-    "Taux de chômage (en %)": "5,201750122"
+    "tauxChomage": "5,201750122"
   },
   {
     "Commune": "Strassen",
@@ -294,7 +294,7 @@
     "dont: Non-Salariés": 340,
     "Chômeurs": 202,
     "Population active": 3392,
-    "Taux de chômage (en %)": "5,955188679"
+    "tauxChomage": "5,955188679"
   },
   {
     "Commune": "Walferdange",
@@ -303,7 +303,7 @@
     "dont: Non-Salariés": 320,
     "Chômeurs": 226,
     "Population active": 3336,
-    "Taux de chômage (en %)": "6,774580336"
+    "tauxChomage": "6,774580336"
   },
   {
     "Commune": "Weiler-la-Tour",
@@ -312,7 +312,7 @@
     "dont: Non-Salariés": 80,
     "Chômeurs": 36,
     "Population active": 986,
-    "Taux de chômage (en %)": "3,651115619"
+    "tauxChomage": "3,651115619"
   },
   {
     "Commune": "Bissen",
@@ -321,7 +321,7 @@
     "dont: Non-Salariés": 80,
     "Chômeurs": 81,
     "Population active": 1391,
-    "Taux de chômage (en %)": "5,823148814"
+    "tauxChomage": "5,823148814"
   },
   {
     "Commune": "Boevange-sur-Attert",
@@ -330,7 +330,7 @@
     "dont: Non-Salariés": 100,
     "Chômeurs": 39,
     "Population active": 1039,
-    "Taux de chômage (en %)": "3,75360924"
+    "tauxChomage": "3,75360924"
   },
   {
     "Commune": "Colmar-Berg",
@@ -339,7 +339,7 @@
     "dont: Non-Salariés": 50,
     "Chômeurs": 62,
     "Population active": 1022,
-    "Taux de chômage (en %)": "6,066536204"
+    "tauxChomage": "6,066536204"
   },
   {
     "Commune": "Fischbach",
@@ -348,7 +348,7 @@
     "dont: Non-Salariés": 60,
     "Chômeurs": 26,
     "Population active": 616,
-    "Taux de chômage (en %)": "4,220779221"
+    "tauxChomage": "4,220779221"
   },
   {
     "Commune": "Heffingen",
@@ -357,7 +357,7 @@
     "dont: Non-Salariés": 60,
     "Chômeurs": 21,
     "Population active": 601,
-    "Taux de chômage (en %)": "3,494176373"
+    "tauxChomage": "3,494176373"
   },
   {
     "Commune": "Larochette",
@@ -366,7 +366,7 @@
     "dont: Non-Salariés": 70,
     "Chômeurs": 80,
     "Population active": 1030,
-    "Taux de chômage (en %)": "7,766990291"
+    "tauxChomage": "7,766990291"
   },
   {
     "Commune": "Lintgen",
@@ -375,7 +375,7 @@
     "dont: Non-Salariés": 90,
     "Chômeurs": 82,
     "Population active": 1402,
-    "Taux de chômage (en %)": "5,848787447"
+    "tauxChomage": "5,848787447"
   },
   {
     "Commune": "Lorentzweiler",
@@ -384,7 +384,7 @@
     "dont: Non-Salariés": 120,
     "Chômeurs": 72,
     "Population active": 1532,
-    "Taux de chômage (en %)": "4,699738903"
+    "tauxChomage": "4,699738903"
   },
   {
     "Commune": "Mersch",
@@ -393,7 +393,7 @@
     "dont: Non-Salariés": 260,
     "Chômeurs": 272,
     "Population active": 4222,
-    "Taux de chômage (en %)": "6,442444339"
+    "tauxChomage": "6,442444339"
   },
   {
     "Commune": "Nommern",
@@ -402,7 +402,7 @@
     "dont: Non-Salariés": 80,
     "Chômeurs": 32,
     "Population active": 662,
-    "Taux de chômage (en %)": "4,833836858"
+    "tauxChomage": "4,833836858"
   },
   {
     "Commune": "Tuntange",
@@ -411,7 +411,7 @@
     "dont: Non-Salariés": 70,
     "Chômeurs": 32,
     "Population active": 722,
-    "Taux de chômage (en %)": "4,432132964"
+    "tauxChomage": "4,432132964"
   },
   {
     "Commune": "Clervaux",
@@ -420,7 +420,7 @@
     "dont: Non-Salariés": 240,
     "Chômeurs": 217,
     "Population active": 2347,
-    "Taux de chômage (en %)": "9,245845761"
+    "tauxChomage": "9,245845761"
   },
   {
     "Commune": "Parc Hosingen",
@@ -429,7 +429,7 @@
     "dont: Non-Salariés": 150,
     "Chômeurs": 101,
     "Population active": 1591,
-    "Taux de chômage (en %)": "6,348208674"
+    "tauxChomage": "6,348208674"
   },
   {
     "Commune": "Troisvierges",
@@ -438,7 +438,7 @@
     "dont: Non-Salariés": 160,
     "Chômeurs": 113,
     "Population active": 1473,
-    "Taux de chômage (en %)": "7,671418873"
+    "tauxChomage": "7,671418873"
   },
   {
     "Commune": "Weiswampach",
@@ -447,7 +447,7 @@
     "dont: Non-Salariés": 110,
     "Chômeurs": 65,
     "Population active": 845,
-    "Taux de chômage (en %)": "7,692307692"
+    "tauxChomage": "7,692307692"
   },
   {
     "Commune": "Wincrange",
@@ -456,7 +456,7 @@
     "dont: Non-Salariés": 330,
     "Chômeurs": 108,
     "Population active": 1968,
-    "Taux de chômage (en %)": "5,487804878"
+    "tauxChomage": "5,487804878"
   },
   {
     "Commune": "Bettendorf",
@@ -465,7 +465,7 @@
     "dont: Non-Salariés": 90,
     "Chômeurs": 90,
     "Population active": 1220,
-    "Taux de chômage (en %)": "7,37704918"
+    "tauxChomage": "7,37704918"
   },
   {
     "Commune": "Bourscheid",
@@ -474,7 +474,7 @@
     "dont: Non-Salariés": 80,
     "Chômeurs": 71,
     "Population active": 781,
-    "Taux de chômage (en %)": "9,090909091"
+    "tauxChomage": "9,090909091"
   },
   {
     "Commune": "Diekirch",
@@ -483,7 +483,7 @@
     "dont: Non-Salariés": 200,
     "Chômeurs": 277,
     "Population active": 3037,
-    "Taux de chômage (en %)": "9,120842937"
+    "tauxChomage": "9,120842937"
   },
   {
     "Commune": "Erpeldange-sur-Sûre",
@@ -492,7 +492,7 @@
     "dont: Non-Salariés": 90,
     "Chômeurs": 62,
     "Population active": 1082,
-    "Taux de chômage (en %)": "5,73012939"
+    "tauxChomage": "5,73012939"
   },
   {
     "Commune": "Ettelbruck",
@@ -501,7 +501,7 @@
     "dont: Non-Salariés": 250,
     "Chômeurs": 441,
     "Population active": 3831,
-    "Taux de chômage (en %)": "11,51135474"
+    "tauxChomage": "11,51135474"
   },
   {
     "Commune": "Feulen",
@@ -510,7 +510,7 @@
     "dont: Non-Salariés": 70,
     "Chômeurs": 54,
     "Population active": 934,
-    "Taux de chômage (en %)": "5,781584582"
+    "tauxChomage": "5,781584582"
   },
   {
     "Commune": "Mertzig",
@@ -519,7 +519,7 @@
     "dont: Non-Salariés": 60,
     "Chômeurs": 48,
     "Population active": 978,
-    "Taux de chômage (en %)": "4,90797546"
+    "tauxChomage": "4,90797546"
   },
   {
     "Commune": "Reisdorf",
@@ -528,7 +528,7 @@
     "dont: Non-Salariés": 50,
     "Chômeurs": 69,
     "Population active": 549,
-    "Taux de chômage (en %)": "12,56830601"
+    "tauxChomage": "12,56830601"
   },
   {
     "Commune": "Schieren",
@@ -537,7 +537,7 @@
     "dont: Non-Salariés": 60,
     "Chômeurs": 59,
     "Population active": 949,
-    "Taux de chômage (en %)": "6,217070601"
+    "tauxChomage": "6,217070601"
   },
   {
     "Commune": "Vallée de l'Ernz",
@@ -546,7 +546,7 @@
     "dont: Non-Salariés": 130,
     "Chômeurs": 76,
     "Population active": 1256,
-    "Taux de chômage (en %)": "6,050955414"
+    "tauxChomage": "6,050955414"
   },
   {
     "Commune": "Beckerich",
@@ -555,7 +555,7 @@
     "dont: Non-Salariés": 100,
     "Chômeurs": 54,
     "Population active": 1084,
-    "Taux de chômage (en %)": "4,981549815"
+    "tauxChomage": "4,981549815"
   },
   {
     "Commune": "Ell",
@@ -564,7 +564,7 @@
     "dont: Non-Salariés": 70,
     "Chômeurs": 25,
     "Population active": 585,
-    "Taux de chômage (en %)": "4,273504274"
+    "tauxChomage": "4,273504274"
   },
   {
     "Commune": "Grosbous",
@@ -573,7 +573,7 @@
     "dont: Non-Salariés": 50,
     "Chômeurs": 40,
     "Population active": 510,
-    "Taux de chômage (en %)": "7,843137255"
+    "tauxChomage": "7,843137255"
   },
   {
     "Commune": "Préizerdaul",
@@ -582,7 +582,7 @@
     "dont: Non-Salariés": 70,
     "Chômeurs": 37,
     "Population active": 777,
-    "Taux de chômage (en %)": "4,761904762"
+    "tauxChomage": "4,761904762"
   },
   {
     "Commune": "Rambrouch",
@@ -591,7 +591,7 @@
     "dont: Non-Salariés": 250,
     "Chômeurs": 160,
     "Population active": 1850,
-    "Taux de chômage (en %)": "8,648648649"
+    "tauxChomage": "8,648648649"
   },
   {
     "Commune": "Redange-sur-Attert",
@@ -600,7 +600,7 @@
     "dont: Non-Salariés": 120,
     "Chômeurs": 57,
     "Population active": 1167,
-    "Taux de chômage (en %)": "4,884318766"
+    "tauxChomage": "4,884318766"
   },
   {
     "Commune": "Saeul",
@@ -609,7 +609,7 @@
     "dont: Non-Salariés": 40,
     "Chômeurs": 19,
     "Population active": 349,
-    "Taux de chômage (en %)": "5,444126074"
+    "tauxChomage": "5,444126074"
   },
   {
     "Commune": "Useldange",
@@ -618,7 +618,7 @@
     "dont: Non-Salariés": 80,
     "Chômeurs": 37,
     "Population active": 837,
-    "Taux de chômage (en %)": "4,420549582"
+    "tauxChomage": "4,420549582"
   },
   {
     "Commune": "Vichten",
@@ -627,7 +627,7 @@
     "dont: Non-Salariés": 40,
     "Chômeurs": 37,
     "Population active": 607,
-    "Taux de chômage (en %)": "6,095551895"
+    "tauxChomage": "6,095551895"
   },
   {
     "Commune": "Wahl",
@@ -636,7 +636,7 @@
     "dont: Non-Salariés": 60,
     "Chômeurs": 28,
     "Population active": 428,
-    "Taux de chômage (en %)": "6,542056075"
+    "tauxChomage": "6,542056075"
   },
   {
     "Commune": "Putscheid",
@@ -645,7 +645,7 @@
     "dont: Non-Salariés": 30,
     "Chômeurs": 20,
     "Population active": 500,
-    "Taux de chômage (en %)": 4
+    "tauxChomage": 4
   },
   {
     "Commune": "Tandel",
@@ -654,7 +654,7 @@
     "dont: Non-Salariés": 100,
     "Chômeurs": 59,
     "Population active": 969,
-    "Taux de chômage (en %)": "6,08875129"
+    "tauxChomage": "6,08875129"
   },
   {
     "Commune": "Vianden",
@@ -663,7 +663,7 @@
     "dont: Non-Salariés": 80,
     "Chômeurs": 93,
     "Population active": 903,
-    "Taux de chômage (en %)": "10,29900332"
+    "tauxChomage": "10,29900332"
   },
   {
     "Commune": "Boulaide",
@@ -672,7 +672,7 @@
     "dont: Non-Salariés": 60,
     "Chômeurs": 26,
     "Population active": 506,
-    "Taux de chômage (en %)": "5,138339921"
+    "tauxChomage": "5,138339921"
   },
   {
     "Commune": "Esch-sur-Sûre",
@@ -681,7 +681,7 @@
     "dont: Non-Salariés": 110,
     "Chômeurs": 79,
     "Population active": 1159,
-    "Taux de chômage (en %)": "6,81622088"
+    "tauxChomage": "6,81622088"
   },
   {
     "Commune": "Goesdorf",
@@ -690,7 +690,7 @@
     "dont: Non-Salariés": 70,
     "Chômeurs": 48,
     "Population active": 738,
-    "Taux de chômage (en %)": "6,504065041"
+    "tauxChomage": "6,504065041"
   },
   {
     "Commune": "Kiischpelt",
@@ -699,7 +699,7 @@
     "dont: Non-Salariés": 50,
     "Chômeurs": 37,
     "Population active": 487,
-    "Taux de chômage (en %)": "7,597535934"
+    "tauxChomage": "7,597535934"
   },
   {
     "Commune": "Lac de la Haute-Sûre",
@@ -708,7 +708,7 @@
     "dont: Non-Salariés": 100,
     "Chômeurs": 58,
     "Population active": 768,
-    "Taux de chômage (en %)": "7,552083333"
+    "tauxChomage": "7,552083333"
   },
   {
     "Commune": "Wiltz",
@@ -717,7 +717,7 @@
     "dont: Non-Salariés": 180,
     "Chômeurs": 321,
     "Population active": 2771,
-    "Taux de chômage (en %)": "11,58426561"
+    "tauxChomage": "11,58426561"
   },
   {
     "Commune": "Winseler",
@@ -726,7 +726,7 @@
     "dont: Non-Salariés": 90,
     "Chômeurs": 36,
     "Population active": 526,
-    "Taux de chômage (en %)": "6,844106464"
+    "tauxChomage": "6,844106464"
   },
   {
     "Commune": "Beaufort",
@@ -735,7 +735,7 @@
     "dont: Non-Salariés": 80,
     "Chômeurs": 131,
     "Population active": 1241,
-    "Taux de chômage (en %)": "10,55600322"
+    "tauxChomage": "10,55600322"
   },
   {
     "Commune": "Bech",
@@ -744,7 +744,7 @@
     "dont: Non-Salariés": 70,
     "Chômeurs": 14,
     "Population active": 534,
-    "Taux de chômage (en %)": "2,621722846"
+    "tauxChomage": "2,621722846"
   },
   {
     "Commune": "Berdorf",
@@ -753,7 +753,7 @@
     "dont: Non-Salariés": 80,
     "Chômeurs": 77,
     "Population active": 767,
-    "Taux de chômage (en %)": "10,03911343"
+    "tauxChomage": "10,03911343"
   },
   {
     "Commune": "Consdorf",
@@ -762,7 +762,7 @@
     "dont: Non-Salariés": 100,
     "Chômeurs": 42,
     "Population active": 862,
-    "Taux de chômage (en %)": "4,872389791"
+    "tauxChomage": "4,872389791"
   },
   {
     "Commune": "Echternach",
@@ -771,7 +771,7 @@
     "dont: Non-Salariés": 210,
     "Chômeurs": 216,
     "Population active": 2336,
-    "Taux de chômage (en %)": "9,246575342"
+    "tauxChomage": "9,246575342"
   },
   {
     "Commune": "Mompach",
@@ -780,7 +780,7 @@
     "dont: Non-Salariés": 50,
     "Chômeurs": 25,
     "Population active": 555,
-    "Taux de chômage (en %)": "4,504504505"
+    "tauxChomage": "4,504504505"
   },
   {
     "Commune": "Rosport",
@@ -789,7 +789,7 @@
     "dont: Non-Salariés": 130,
     "Chômeurs": 54,
     "Population active": 994,
-    "Taux de chômage (en %)": "5,432595573"
+    "tauxChomage": "5,432595573"
   },
   {
     "Commune": "Waldbillig",
@@ -798,7 +798,7 @@
     "dont: Non-Salariés": 60,
     "Chômeurs": 54,
     "Population active": 834,
-    "Taux de chômage (en %)": "6,474820144"
+    "tauxChomage": "6,474820144"
   },
   {
     "Commune": "Betzdorf",
@@ -807,7 +807,7 @@
     "dont: Non-Salariés": 140,
     "Chômeurs": 52,
     "Population active": 1542,
-    "Taux de chômage (en %)": "3,372243839"
+    "tauxChomage": "3,372243839"
   },
   {
     "Commune": "Biwer",
@@ -816,7 +816,7 @@
     "dont: Non-Salariés": 90,
     "Chômeurs": 30,
     "Population active": 770,
-    "Taux de chômage (en %)": "3,896103896"
+    "tauxChomage": "3,896103896"
   },
   {
     "Commune": "Flaxweiler",
@@ -825,7 +825,7 @@
     "dont: Non-Salariés": 90,
     "Chômeurs": 30,
     "Population active": 930,
-    "Taux de chômage (en %)": "3,225806452"
+    "tauxChomage": "3,225806452"
   },
   {
     "Commune": "Grevenmacher",
@@ -834,7 +834,7 @@
     "dont: Non-Salariés": 150,
     "Chômeurs": 141,
     "Population active": 2181,
-    "Taux de chômage (en %)": "6,464924347"
+    "tauxChomage": "6,464924347"
   },
   {
     "Commune": "Junglinster",
@@ -843,7 +843,7 @@
     "dont: Non-Salariés": 300,
     "Chômeurs": 123,
     "Population active": 3163,
-    "Taux de chômage (en %)": "3,888713247"
+    "tauxChomage": "3,888713247"
   },
   {
     "Commune": "Manternach",
@@ -852,7 +852,7 @@
     "dont: Non-Salariés": 80,
     "Chômeurs": 34,
     "Population active": 824,
-    "Taux de chômage (en %)": "4,126213592"
+    "tauxChomage": "4,126213592"
   },
   {
     "Commune": "Mertert",
@@ -861,7 +861,7 @@
     "dont: Non-Salariés": 140,
     "Chômeurs": 158,
     "Population active": 1988,
-    "Taux de chômage (en %)": "7,947686117"
+    "tauxChomage": "7,947686117"
   },
   {
     "Commune": "Wormeldange",
@@ -870,7 +870,7 @@
     "dont: Non-Salariés": 160,
     "Chômeurs": 73,
     "Population active": 1283,
-    "Taux de chômage (en %)": "5,689789556"
+    "tauxChomage": "5,689789556"
   },
   {
     "Commune": "Bous",
@@ -879,7 +879,7 @@
     "dont: Non-Salariés": 70,
     "Chômeurs": 22,
     "Population active": 772,
-    "Taux de chômage (en %)": "2,849740933"
+    "tauxChomage": "2,849740933"
   },
   {
     "Commune": "Dalheim",
@@ -888,7 +888,7 @@
     "dont: Non-Salariés": 100,
     "Chômeurs": 49,
     "Population active": 929,
-    "Taux de chômage (en %)": "5,274488698"
+    "tauxChomage": "5,274488698"
   },
   {
     "Commune": "Lenningen",
@@ -897,7 +897,7 @@
     "dont: Non-Salariés": 60,
     "Chômeurs": 49,
     "Population active": 829,
-    "Taux de chômage (en %)": "5,910735826"
+    "tauxChomage": "5,910735826"
   },
   {
     "Commune": "Mondorf-les-Bains",
@@ -906,7 +906,7 @@
     "dont: Non-Salariés": 180,
     "Chômeurs": 173,
     "Population active": 2083,
-    "Taux de chômage (en %)": "8,305328853"
+    "tauxChomage": "8,305328853"
   },
   {
     "Commune": "Remich",
@@ -915,7 +915,7 @@
     "dont: Non-Salariés": 180,
     "Chômeurs": 120,
     "Population active": 1550,
-    "Taux de chômage (en %)": "7,741935484"
+    "tauxChomage": "7,741935484"
   },
   {
     "Commune": "Schengen",
@@ -924,7 +924,7 @@
     "dont: Non-Salariés": 260,
     "Chômeurs": 83,
     "Population active": 2173,
-    "Taux de chômage (en %)": "3,819604234"
+    "tauxChomage": "3,819604234"
   },
   {
     "Commune": "Stadtbredimus",
@@ -933,7 +933,7 @@
     "dont: Non-Salariés": 90,
     "Chômeurs": 51,
     "Population active": 891,
-    "Taux de chômage (en %)": "5,723905724"
+    "tauxChomage": "5,723905724"
   },
   {
     "Commune": "Waldbredimus",
@@ -942,6 +942,6 @@
     "dont: Non-Salariés": 60,
     "Chômeurs": 20,
     "Population active": 460,
-    "Taux de chômage (en %)": "4,347826087"
+    "tauxChomage": "4,347826087"
   }
 ]
