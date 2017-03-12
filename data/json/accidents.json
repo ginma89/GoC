@@ -1,6 +1,6 @@
 [
   {
-    "Communes": "Dippach",
+    "Commune": "Dippach",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 5,
     "Personnes tuées_2005": "-",
@@ -57,7 +57,7 @@
     "Personnes blessées légers_2015": 5
   },
   {
-    "Communes": "Garnich",
+    "Commune": "Garnich",
     "Accidents corporels_2005": "-",
     "Total des victimes_2005": "-",
     "Personnes tuées_2005": "-",
@@ -114,7 +114,7 @@
     "Personnes blessées légers_2015": 6
   },
   {
-    "Communes": "Hobscheid",
+    "Commune": "Hobscheid",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 5,
     "Personnes tuées_2005": "-",
@@ -171,7 +171,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Käerjeng",
+    "Commune": "Käerjeng",
     "Accidents corporels_2005": 11,
     "Total des victimes_2005": 22,
     "Personnes tuées_2005": 3,
@@ -228,7 +228,7 @@
     "Personnes blessées légers_2015": 37
   },
   {
-    "Communes": "Kehlen",
+    "Commune": "Kehlen",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 5,
     "Personnes tuées_2005": "-",
@@ -285,7 +285,7 @@
     "Personnes blessées légers_2015": 4
   },
   {
-    "Communes": "Koerich",
+    "Commune": "Koerich",
     "Accidents corporels_2005": 3,
     "Total des victimes_2005": 3,
     "Personnes tuées_2005": "-",
@@ -342,7 +342,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Kopstal",
+    "Commune": "Kopstal",
     "Accidents corporels_2005": 18,
     "Total des victimes_2005": 28,
     "Personnes tuées_2005": "-",
@@ -399,7 +399,7 @@
     "Personnes blessées légers_2015": 12
   },
   {
-    "Communes": "Mamer",
+    "Commune": "Mamer",
     "Accidents corporels_2005": 12,
     "Total des victimes_2005": 19,
     "Personnes tuées_2005": "-",
@@ -456,7 +456,7 @@
     "Personnes blessées légers_2015": 18
   },
   {
-    "Communes": "Septfontaines",
+    "Commune": "Septfontaines",
     "Accidents corporels_2005": "-",
     "Total des victimes_2005": "-",
     "Personnes tuées_2005": "-",
@@ -513,7 +513,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Steinfort",
+    "Commune": "Steinfort",
     "Accidents corporels_2005": 12,
     "Total des victimes_2005": 16,
     "Personnes tuées_2005": "-",
@@ -570,7 +570,7 @@
     "Personnes blessées légers_2015": 6
   },
   {
-    "Communes": "Bettembourg",
+    "Commune": "Bettembourg",
     "Accidents corporels_2005": 15,
     "Total des victimes_2005": 19,
     "Personnes tuées_2005": 1,
@@ -627,7 +627,7 @@
     "Personnes blessées légers_2015": 20
   },
   {
-    "Communes": "Differdange",
+    "Commune": "Differdange",
     "Accidents corporels_2005": 19,
     "Total des victimes_2005": 20,
     "Personnes tuées_2005": 1,
@@ -684,7 +684,7 @@
     "Personnes blessées légers_2015": 42
   },
   {
-    "Communes": "Dudelange",
+    "Commune": "Dudelange",
     "Accidents corporels_2005": 24,
     "Total des victimes_2005": 33,
     "Personnes tuées_2005": 1,
@@ -741,7 +741,7 @@
     "Personnes blessées légers_2015": 36
   },
   {
-    "Communes": "Esch-sur-Alzette",
+    "Commune": "Esch-sur-Alzette",
     "Accidents corporels_2005": 31,
     "Total des victimes_2005": 40,
     "Personnes tuées_2005": 2,
@@ -798,7 +798,7 @@
     "Personnes blessées légers_2015": 78
   },
   {
-    "Communes": "Frisange",
+    "Commune": "Frisange",
     "Accidents corporels_2005": 8,
     "Total des victimes_2005": 14,
     "Personnes tuées_2005": "-",
@@ -855,7 +855,7 @@
     "Personnes blessées légers_2015": 12
   },
   {
-    "Communes": "Kayl",
+    "Commune": "Kayl",
     "Accidents corporels_2005": 8,
     "Total des victimes_2005": 11,
     "Personnes tuées_2005": 1,
@@ -912,7 +912,7 @@
     "Personnes blessées légers_2015": 12
   },
   {
-    "Communes": "Leudelange",
+    "Commune": "Leudelange",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 10,
     "Personnes tuées_2005": "-",
@@ -969,7 +969,7 @@
     "Personnes blessées légers_2015": 19
   },
   {
-    "Communes": "Mondercange",
+    "Commune": "Mondercange",
     "Accidents corporels_2005": 10,
     "Total des victimes_2005": 15,
     "Personnes tuées_2005": "-",
@@ -1026,7 +1026,7 @@
     "Personnes blessées légers_2015": 19
   },
   {
-    "Communes": "Pétange",
+    "Commune": "Pétange",
     "Accidents corporels_2005": 10,
     "Total des victimes_2005": 19,
     "Personnes tuées_2005": 2,
@@ -1083,7 +1083,7 @@
     "Personnes blessées légers_2015": 47
   },
   {
-    "Communes": "Reckange-sur-Mess",
+    "Commune": "Reckange-sur-Mess",
     "Accidents corporels_2005": 2,
     "Total des victimes_2005": 2,
     "Personnes tuées_2005": "-",
@@ -1140,7 +1140,7 @@
     "Personnes blessées légers_2015": 14
   },
   {
-    "Communes": "Roeser",
+    "Commune": "Roeser",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 1,
     "Personnes tuées_2005": "-",
@@ -1197,7 +1197,7 @@
     "Personnes blessées légers_2015": 9
   },
   {
-    "Communes": "Rumelange",
+    "Commune": "Rumelange",
     "Accidents corporels_2005": "-",
     "Total des victimes_2005": "-",
     "Personnes tuées_2005": "-",
@@ -1254,7 +1254,7 @@
     "Personnes blessées légers_2015": 5
   },
   {
-    "Communes": "Sanem",
+    "Commune": "Sanem",
     "Accidents corporels_2005": 12,
     "Total des victimes_2005": 17,
     "Personnes tuées_2005": 2,
@@ -1311,7 +1311,7 @@
     "Personnes blessées légers_2015": 37
   },
   {
-    "Communes": "Schifflange",
+    "Commune": "Schifflange",
     "Accidents corporels_2005": 9,
     "Total des victimes_2005": 12,
     "Personnes tuées_2005": 1,
@@ -1368,7 +1368,7 @@
     "Personnes blessées légers_2015": 6
   },
   {
-    "Communes": "Bertrange",
+    "Commune": "Bertrange",
     "Accidents corporels_2005": 10,
     "Total des victimes_2005": 13,
     "Personnes tuées_2005": 1,
@@ -1425,7 +1425,7 @@
     "Personnes blessées légers_2015": 6
   },
   {
-    "Communes": "Contern",
+    "Commune": "Contern",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 6,
     "Personnes tuées_2005": "-",
@@ -1482,7 +1482,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Hesperange",
+    "Commune": "Hesperange",
     "Accidents corporels_2005": 11,
     "Total des victimes_2005": 13,
     "Personnes tuées_2005": 2,
@@ -1539,7 +1539,7 @@
     "Personnes blessées légers_2015": 35
   },
   {
-    "Communes": "Luxembourg",
+    "Commune": "Luxembourg",
     "Accidents corporels_2005": 167,
     "Total des victimes_2005": 214,
     "Personnes tuées_2005": 3,
@@ -1596,7 +1596,7 @@
     "Personnes blessées légers_2015": 159
   },
   {
-    "Communes": "Niederanven",
+    "Commune": "Niederanven",
     "Accidents corporels_2005": 6,
     "Total des victimes_2005": 7,
     "Personnes tuées_2005": "-",
@@ -1653,7 +1653,7 @@
     "Personnes blessées légers_2015": 20
   },
   {
-    "Communes": "Sandweiler",
+    "Commune": "Sandweiler",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 7,
     "Personnes tuées_2005": "-",
@@ -1710,7 +1710,7 @@
     "Personnes blessées légers_2015": 8
   },
   {
-    "Communes": "Schuttrange",
+    "Commune": "Schuttrange",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 6,
     "Personnes tuées_2005": "-",
@@ -1767,7 +1767,7 @@
     "Personnes blessées légers_2015": 5
   },
   {
-    "Communes": "Steinsel",
+    "Commune": "Steinsel",
     "Accidents corporels_2005": 7,
     "Total des victimes_2005": 12,
     "Personnes tuées_2005": "-",
@@ -1824,7 +1824,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Strassen",
+    "Commune": "Strassen",
     "Accidents corporels_2005": 8,
     "Total des victimes_2005": 10,
     "Personnes tuées_2005": "-",
@@ -1881,7 +1881,7 @@
     "Personnes blessées légers_2015": 14
   },
   {
-    "Communes": "Walferdange",
+    "Commune": "Walferdange",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 6,
     "Personnes tuées_2005": "-",
@@ -1938,7 +1938,7 @@
     "Personnes blessées légers_2015": 4
   },
   {
-    "Communes": "Weiler-la-Tour",
+    "Commune": "Weiler-la-Tour",
     "Accidents corporels_2005": 2,
     "Total des victimes_2005": 2,
     "Personnes tuées_2005": "-",
@@ -1995,7 +1995,7 @@
     "Personnes blessées légers_2015": 14
   },
   {
-    "Communes": "Bissen",
+    "Commune": "Bissen",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 2,
     "Personnes tuées_2005": "-",
@@ -2052,7 +2052,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Boevange-sur-Attert",
+    "Commune": "Boevange-sur-Attert",
     "Accidents corporels_2005": 2,
     "Total des victimes_2005": 3,
     "Personnes tuées_2005": "-",
@@ -2109,7 +2109,7 @@
     "Personnes blessées légers_2015": 9
   },
   {
-    "Communes": "Colmar-Berg",
+    "Commune": "Colmar-Berg",
     "Accidents corporels_2005": 3,
     "Total des victimes_2005": 3,
     "Personnes tuées_2005": "-",
@@ -2166,7 +2166,7 @@
     "Personnes blessées légers_2015": 6
   },
   {
-    "Communes": "Fischbach",
+    "Commune": "Fischbach",
     "Accidents corporels_2005": 3,
     "Total des victimes_2005": 7,
     "Personnes tuées_2005": "-",
@@ -2223,7 +2223,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Heffingen",
+    "Commune": "Heffingen",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 8,
     "Personnes tuées_2005": "-",
@@ -2280,7 +2280,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Larochette",
+    "Commune": "Larochette",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 1,
     "Personnes tuées_2005": "-",
@@ -2337,7 +2337,7 @@
     "Personnes blessées légers_2015": 6
   },
   {
-    "Communes": "Lintgen",
+    "Commune": "Lintgen",
     "Accidents corporels_2005": 3,
     "Total des victimes_2005": 3,
     "Personnes tuées_2005": "-",
@@ -2394,7 +2394,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Lorentzweiler",
+    "Commune": "Lorentzweiler",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 8,
     "Personnes tuées_2005": "-",
@@ -2451,7 +2451,7 @@
     "Personnes blessées légers_2015": 7
   },
   {
-    "Communes": "Mersch",
+    "Commune": "Mersch",
     "Accidents corporels_2005": 21,
     "Total des victimes_2005": 32,
     "Personnes tuées_2005": "-",
@@ -2508,7 +2508,7 @@
     "Personnes blessées légers_2015": 10
   },
   {
-    "Communes": "Nommern",
+    "Commune": "Nommern",
     "Accidents corporels_2005": 2,
     "Total des victimes_2005": 3,
     "Personnes tuées_2005": 2,
@@ -2565,7 +2565,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Tuntange",
+    "Commune": "Tuntange",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 2,
     "Personnes tuées_2005": 1,
@@ -2622,7 +2622,7 @@
     "Personnes blessées légers_2015": 7
   },
   {
-    "Communes": "Clervaux",
+    "Commune": "Clervaux",
     "Accidents corporels_2005": 16,
     "Total des victimes_2005": 25,
     "Personnes tuées_2005": 2,
@@ -2679,7 +2679,7 @@
     "Personnes blessées légers_2015": 20
   },
   {
-    "Communes": "Parc Hosingen",
+    "Commune": "Parc Hosingen",
     "Accidents corporels_2005": 13,
     "Total des victimes_2005": 18,
     "Personnes tuées_2005": "-",
@@ -2736,7 +2736,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Troisvierges",
+    "Commune": "Troisvierges",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 7,
     "Personnes tuées_2005": "-",
@@ -2793,7 +2793,7 @@
     "Personnes blessées légers_2015": 4
   },
   {
-    "Communes": "Weiswampach",
+    "Commune": "Weiswampach",
     "Accidents corporels_2005": 7,
     "Total des victimes_2005": 15,
     "Personnes tuées_2005": "-",
@@ -2850,7 +2850,7 @@
     "Personnes blessées légers_2015": 1
   },
   {
-    "Communes": "Wincrange",
+    "Commune": "Wincrange",
     "Accidents corporels_2005": 7,
     "Total des victimes_2005": 10,
     "Personnes tuées_2005": 1,
@@ -2907,7 +2907,7 @@
     "Personnes blessées légers_2015": 5
   },
   {
-    "Communes": "Bettendorf",
+    "Commune": "Bettendorf",
     "Accidents corporels_2005": 3,
     "Total des victimes_2005": 5,
     "Personnes tuées_2005": "-",
@@ -2964,7 +2964,7 @@
     "Personnes blessées légers_2015": 6
   },
   {
-    "Communes": "Bourscheid",
+    "Commune": "Bourscheid",
     "Accidents corporels_2005": 7,
     "Total des victimes_2005": 13,
     "Personnes tuées_2005": 2,
@@ -3021,7 +3021,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Diekirch",
+    "Commune": "Diekirch",
     "Accidents corporels_2005": 10,
     "Total des victimes_2005": 17,
     "Personnes tuées_2005": "-",
@@ -3078,7 +3078,7 @@
     "Personnes blessées légers_2015": 9
   },
   {
-    "Communes": "Erpeldange-sur-Sûre",
+    "Commune": "Erpeldange-sur-Sûre",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 6,
     "Personnes tuées_2005": 1,
@@ -3135,7 +3135,7 @@
     "Personnes blessées légers_2015": 11
   },
   {
-    "Communes": "Ettelbruck",
+    "Commune": "Ettelbruck",
     "Accidents corporels_2005": 12,
     "Total des victimes_2005": 16,
     "Personnes tuées_2005": "-",
@@ -3192,7 +3192,7 @@
     "Personnes blessées légers_2015": 9
   },
   {
-    "Communes": "Feulen",
+    "Commune": "Feulen",
     "Accidents corporels_2005": 7,
     "Total des victimes_2005": 14,
     "Personnes tuées_2005": "-",
@@ -3249,7 +3249,7 @@
     "Personnes blessées légers_2015": 1
   },
   {
-    "Communes": "Mertzig",
+    "Commune": "Mertzig",
     "Accidents corporels_2005": "-",
     "Total des victimes_2005": "-",
     "Personnes tuées_2005": "-",
@@ -3306,7 +3306,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Reisdorf",
+    "Commune": "Reisdorf",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 1,
     "Personnes tuées_2005": "-",
@@ -3363,7 +3363,7 @@
     "Personnes blessées légers_2015": 1
   },
   {
-    "Communes": "Schieren",
+    "Commune": "Schieren",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 4,
     "Personnes tuées_2005": "-",
@@ -3420,7 +3420,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Vallée de l'Ernz",
+    "Commune": "Vallée de l'Ernz",
     "Accidents corporels_2005": 2,
     "Total des victimes_2005": 4,
     "Personnes tuées_2005": "-",
@@ -3477,7 +3477,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Beckerich",
+    "Commune": "Beckerich",
     "Accidents corporels_2005": 7,
     "Total des victimes_2005": 7,
     "Personnes tuées_2005": "-",
@@ -3534,7 +3534,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Ell",
+    "Commune": "Ell",
     "Accidents corporels_2005": 2,
     "Total des victimes_2005": 2,
     "Personnes tuées_2005": "-",
@@ -3591,7 +3591,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Grosbous",
+    "Commune": "Grosbous",
     "Accidents corporels_2005": 3,
     "Total des victimes_2005": 6,
     "Personnes tuées_2005": 2,
@@ -3648,7 +3648,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Préizerdaul",
+    "Commune": "Préizerdaul",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 1,
     "Personnes tuées_2005": "-",
@@ -3705,7 +3705,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Rambrouch",
+    "Commune": "Rambrouch",
     "Accidents corporels_2005": 2,
     "Total des victimes_2005": 2,
     "Personnes tuées_2005": "-",
@@ -3762,7 +3762,7 @@
     "Personnes blessées légers_2015": 13
   },
   {
-    "Communes": "Redange-sur-Attert",
+    "Commune": "Redange-sur-Attert",
     "Accidents corporels_2005": 6,
     "Total des victimes_2005": 11,
     "Personnes tuées_2005": "-",
@@ -3819,7 +3819,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Saeul",
+    "Commune": "Saeul",
     "Accidents corporels_2005": 7,
     "Total des victimes_2005": 11,
     "Personnes tuées_2005": 1,
@@ -3876,7 +3876,7 @@
     "Personnes blessées légers_2015": 1
   },
   {
-    "Communes": "Useldange",
+    "Commune": "Useldange",
     "Accidents corporels_2005": 3,
     "Total des victimes_2005": 3,
     "Personnes tuées_2005": "-",
@@ -3933,7 +3933,7 @@
     "Personnes blessées légers_2015": 1
   },
   {
-    "Communes": "Vichten",
+    "Commune": "Vichten",
     "Accidents corporels_2005": 3,
     "Total des victimes_2005": 4,
     "Personnes tuées_2005": "-",
@@ -3990,7 +3990,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Wahl",
+    "Commune": "Wahl",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 4,
     "Personnes tuées_2005": 2,
@@ -4047,7 +4047,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Putscheid",
+    "Commune": "Putscheid",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 4,
     "Personnes tuées_2005": "-",
@@ -4104,7 +4104,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Tandel",
+    "Commune": "Tandel",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 6,
     "Personnes tuées_2005": 2,
@@ -4161,7 +4161,7 @@
     "Personnes blessées légers_2015": 1
   },
   {
-    "Communes": "Vianden",
+    "Commune": "Vianden",
     "Accidents corporels_2005": 2,
     "Total des victimes_2005": 3,
     "Personnes tuées_2005": "-",
@@ -4218,7 +4218,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Boulaide",
+    "Commune": "Boulaide",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 1,
     "Personnes tuées_2005": "-",
@@ -4275,7 +4275,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Esch-sur-Sûre",
+    "Commune": "Esch-sur-Sûre",
     "Accidents corporels_2005": 6,
     "Total des victimes_2005": 10,
     "Personnes tuées_2005": "-",
@@ -4332,7 +4332,7 @@
     "Personnes blessées légers_2015": 9
   },
   {
-    "Communes": "Eschweiler",
+    "Commune": "Eschweiler",
     "Accidents corporels_2005": "-",
     "Total des victimes_2005": "-",
     "Personnes tuées_2005": "-",
@@ -4389,7 +4389,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Goesdorf",
+    "Commune": "Goesdorf",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 1,
     "Personnes tuées_2005": "-",
@@ -4446,7 +4446,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Kiipschpelt",
+    "Commune": "Kiipschpelt",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 1,
     "Personnes tuées_2005": "-",
@@ -4503,7 +4503,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Lac de la Haute-Sûre",
+    "Commune": "Lac de la Haute-Sûre",
     "Accidents corporels_2005": 3,
     "Total des victimes_2005": 5,
     "Personnes tuées_2005": "-",
@@ -4560,7 +4560,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Wiltz",
+    "Commune": "Wiltz",
     "Accidents corporels_2005": 6,
     "Total des victimes_2005": 7,
     "Personnes tuées_2005": "-",
@@ -4617,7 +4617,7 @@
     "Personnes blessées légers_2015": 12
   },
   {
-    "Communes": "Winseler",
+    "Commune": "Winseler",
     "Accidents corporels_2005": 2,
     "Total des victimes_2005": 2,
     "Personnes tuées_2005": "-",
@@ -4674,7 +4674,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Beaufort",
+    "Commune": "Beaufort",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 7,
     "Personnes tuées_2005": "-",
@@ -4731,7 +4731,7 @@
     "Personnes blessées légers_2015": 4
   },
   {
-    "Communes": "Bech",
+    "Commune": "Bech",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 14,
     "Personnes tuées_2005": 1,
@@ -4788,7 +4788,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Berdorf",
+    "Commune": "Berdorf",
     "Accidents corporels_2005": 3,
     "Total des victimes_2005": 3,
     "Personnes tuées_2005": "-",
@@ -4845,7 +4845,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Consdorf",
+    "Commune": "Consdorf",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 7,
     "Personnes tuées_2005": 1,
@@ -4902,7 +4902,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Echternach",
+    "Commune": "Echternach",
     "Accidents corporels_2005": 16,
     "Total des victimes_2005": 18,
     "Personnes tuées_2005": "-",
@@ -4959,7 +4959,7 @@
     "Personnes blessées légers_2015": 10
   },
   {
-    "Communes": "Mompach",
+    "Commune": "Mompach",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 2,
     "Personnes tuées_2005": 1,
@@ -5016,7 +5016,7 @@
     "Personnes blessées légers_2015": 8
   },
   {
-    "Communes": "Rosport",
+    "Commune": "Rosport",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 1,
     "Personnes tuées_2005": "-",
@@ -5073,7 +5073,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Waldbillig",
+    "Commune": "Waldbillig",
     "Accidents corporels_2005": 6,
     "Total des victimes_2005": 9,
     "Personnes tuées_2005": "-",
@@ -5130,7 +5130,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Betzdorf",
+    "Commune": "Betzdorf",
     "Accidents corporels_2005": 3,
     "Total des victimes_2005": 3,
     "Personnes tuées_2005": "-",
@@ -5187,7 +5187,7 @@
     "Personnes blessées légers_2015": "-"
   },
   {
-    "Communes": "Biwer",
+    "Commune": "Biwer",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 9,
     "Personnes tuées_2005": "-",
@@ -5244,7 +5244,7 @@
     "Personnes blessées légers_2015": 7
   },
   {
-    "Communes": "Flaxweiler",
+    "Commune": "Flaxweiler",
     "Accidents corporels_2005": 2,
     "Total des victimes_2005": 3,
     "Personnes tuées_2005": 1,
@@ -5301,7 +5301,7 @@
     "Personnes blessées légers_2015": 8
   },
   {
-    "Communes": "Grevenmacher",
+    "Commune": "Grevenmacher",
     "Accidents corporels_2005": 7,
     "Total des victimes_2005": 8,
     "Personnes tuées_2005": "-",
@@ -5358,7 +5358,7 @@
     "Personnes blessées légers_2015": 18
   },
   {
-    "Communes": "Junglinster",
+    "Commune": "Junglinster",
     "Accidents corporels_2005": 11,
     "Total des victimes_2005": 19,
     "Personnes tuées_2005": "-",
@@ -5415,7 +5415,7 @@
     "Personnes blessées légers_2015": 13
   },
   {
-    "Communes": "Manternach",
+    "Commune": "Manternach",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 1,
     "Personnes tuées_2005": "-",
@@ -5472,7 +5472,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Mertert",
+    "Commune": "Mertert",
     "Accidents corporels_2005": 8,
     "Total des victimes_2005": 12,
     "Personnes tuées_2005": 1,
@@ -5529,7 +5529,7 @@
     "Personnes blessées légers_2015": 9
   },
   {
-    "Communes": "Wormeldange",
+    "Commune": "Wormeldange",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 10,
     "Personnes tuées_2005": "-",
@@ -5586,7 +5586,7 @@
     "Personnes blessées légers_2015": 12
   },
   {
-    "Communes": "Bous",
+    "Commune": "Bous",
     "Accidents corporels_2005": 5,
     "Total des victimes_2005": 7,
     "Personnes tuées_2005": 3,
@@ -5643,7 +5643,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Dalheim",
+    "Commune": "Dalheim",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 5,
     "Personnes tuées_2005": 1,
@@ -5700,7 +5700,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Lenningen",
+    "Commune": "Lenningen",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 1,
     "Personnes tuées_2005": "-",
@@ -5757,7 +5757,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Mondorf-les-Bains",
+    "Commune": "Mondorf-les-Bains",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 10,
     "Personnes tuées_2005": 1,
@@ -5814,7 +5814,7 @@
     "Personnes blessées légers_2015": 7
   },
   {
-    "Communes": "Remich",
+    "Commune": "Remich",
     "Accidents corporels_2005": 8,
     "Total des victimes_2005": 9,
     "Personnes tuées_2005": 1,
@@ -5871,7 +5871,7 @@
     "Personnes blessées légers_2015": 9
   },
   {
-    "Communes": "Schengen",
+    "Commune": "Schengen",
     "Accidents corporels_2005": 4,
     "Total des victimes_2005": 7,
     "Personnes tuées_2005": "-",
@@ -5928,7 +5928,7 @@
     "Personnes blessées légers_2015": 2
   },
   {
-    "Communes": "Stadtbredimus",
+    "Commune": "Stadtbredimus",
     "Accidents corporels_2005": 2,
     "Total des victimes_2005": 2,
     "Personnes tuées_2005": "-",
@@ -5985,7 +5985,7 @@
     "Personnes blessées légers_2015": 3
   },
   {
-    "Communes": "Waldbredimus",
+    "Commune": "Waldbredimus",
     "Accidents corporels_2005": 1,
     "Total des victimes_2005": 3,
     "Personnes tuées_2005": "-",
