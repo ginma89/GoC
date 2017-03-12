@@ -10,7 +10,7 @@ var files = [
     , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/dechetsMenages.json"
     , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/EmploiEtChomagepParCantonEtParCommune.json"
     , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/taux%20de%20mortalit%C3%A9%20et%20natalit%C3%A9.json"
-    , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/Taux-dipl%C3%B4me%202011.json"
+    , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/diplome.json"
 ];
 
 function garbagePerHabitant(x) {
@@ -125,7 +125,9 @@ function parseData2() {
 
 function parseDiplomes() {
     for (var commune in diplomes) {
-        console.log(diplomes[commune]);
+        $('.data').append(
+            '<li name="' + diplomes[commune].Commune + '" diplomeNotes="' + diplomes[commune].diplomesNote + '" primaire="' + diplomes[commune].primaire + '" secondaire="' + diplomes[commune].secondaire + '" universitaire="' + diplomes[commune].universitaire +'"></li'
+        )
     }
 }
 
