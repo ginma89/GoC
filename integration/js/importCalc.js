@@ -24,7 +24,8 @@ function accidentsCorporels(x) {
 }
 
 function tauxDeChomage(x) {
-    return Math.abs(Math.ceil(100 - (x - 2.62) * (1 / 0.1062)));
+    y = parseInt(x);
+    return Math.abs(Math.ceil(100 - (y - 2.62) * (1 / 0.1062)));
 }
 
 function tauxDeNatalite(x) {
@@ -36,7 +37,8 @@ function tauxDeMortalite(x) {
 }
 
 function tauxDiplome(x) {
-    return Math.abs(Math.ceil((x - 72.271) * (1 / 0.70984)));
+    y = parseInt(x);
+    return Math.abs(Math.ceil((y - 72.271) * (1 / 0.70984)));
 }
 
 function getDataFromUrl(url, param, identifier) {
@@ -76,10 +78,10 @@ function ultraCalc(param, identifier) {
     //NAISSANCES DECES
     if (identifier == 'mortNat') {
         for (var key in param) {
-            param[key].mortNote = tauxDeMortalite(param[key]['taux de mortalite pour mille']);
+            param[key].mortNote = tauxDeMortalite(param[key].mortalite);
         };
         for (var key in param) {
-            param[key].naissanceNote = tauxDeNatalite(param[key]['taux de natalite pour mille']);
+            param[key].naissanceNote = tauxDeNatalite(param[key].natalite);
         }
     }
     //DIPLOMES
