@@ -76,10 +76,10 @@ function ultraCalc(param, identifier) {
     //NAISSANCES DECES
     if (identifier == 'mortNat') {
         for (var key in param) {
-            param[key].mortNote = tauxDeMortalite(param[key]['taux de mortalité pour mille']);
+            param[key].mortNote = tauxDeMortalite(param[key]['taux de mortalite pour mille']);
         };
         for (var key in param) {
-            param[key].naissanceNote = tauxDeNatalite(param[key]['taux de natalité pour mille']);
+            param[key].naissanceNote = tauxDeNatalite(param[key]['taux de natalite pour mille']);
         }
     }
     //DIPLOMES

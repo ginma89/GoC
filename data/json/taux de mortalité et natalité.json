@@ -4,8 +4,8 @@
     "population": 4037,
     "naissances": 44,
     "deces": 27,
-    "taux de natalite pour mille": 10.89918256,
-    "taux de mortalite pour mille": 6.688134754,
+    "natalite": 10.89918256,
+    "mortalite": 6.688134754,
     "": ""
   },
   {
@@ -13,8 +13,8 @@
     "population": 1991,
     "naissances": 12,
     "deces": 14,
-    "taux de natalite pour mille": 6.027122049,
-    "taux de mortalite pour mille": 7.031642391,
+    "natalite": 6.027122049,
+    "mortalite": 7.031642391,
     "": ""
   },
   {
@@ -22,8 +22,8 @@
     "population": 3397,
     "naissances": 29,
     "deces": 23,
-    "taux de natalite pour mille": 8.536944363,
-    "taux de mortalite pour mille": 6.770680012,
+    "natalite": 8.536944363,
+    "mortalite": 6.770680012,
     "": ""
   },
   {
@@ -31,8 +31,8 @@
     "population": 9979,
     "naissances": 71,
     "deces": 97,
-    "taux de natalite pour mille": 7.114941377,
-    "taux de mortalite pour mille": 9.720412867,
+    "natalite": 7.114941377,
+    "mortalite": 9.720412867,
     "": ""
   },
   {
@@ -40,8 +40,8 @@
     "population": 5375,
     "naissances": 65,
     "deces": 29,
-    "taux de natalite pour mille": 12.09302326,
-    "taux de mortalite pour mille": 5.395348837,
+    "natalite": 12.09302326,
+    "mortalite": 5.395348837,
     "": ""
   },
   {
@@ -49,8 +49,8 @@
     "population": 2440,
     "naissances": 25,
     "deces": 14,
-    "taux de natalite pour mille": 10.24590164,
-    "taux de mortalite pour mille": 5.737704918,
+    "natalite": 10.24590164,
+    "mortalite": 5.737704918,
     "": ""
   },
   {
@@ -58,8 +58,8 @@
     "population": 3337,
     "naissances": 36,
     "deces": 23,
-    "taux de natalite pour mille": 10.78813305,
-    "taux de mortalite pour mille": 6.89241834,
+    "natalite": 10.78813305,
+    "mortalite": 6.89241834,
     "": ""
   },
   {
@@ -67,8 +67,8 @@
     "population": 8463,
     "naissances": 83,
     "deces": 66,
-    "taux de natalite pour mille": 9.807396904,
-    "taux de mortalite pour mille": 7.79865296,
+    "natalite": 9.807396904,
+    "mortalite": 7.79865296,
     "": ""
   },
   {
@@ -76,8 +76,8 @@
     "population": 808,
     "naissances": 9,
     "deces": 8,
-    "taux de natalite pour mille": 11.13861386,
-    "taux de mortalite pour mille": 9.900990099,
+    "natalite": 11.13861386,
+    "mortalite": 9.900990099,
     "": ""
   },
   {
@@ -85,8 +85,8 @@
     "population": 4682,
     "naissances": 43,
     "deces": 29,
-    "taux de natalite pour mille": 9.184109355,
-    "taux de mortalite pour mille": 6.193934216,
+    "natalite": 9.184109355,
+    "mortalite": 6.193934216,
     "": ""
   },
   {
@@ -94,8 +94,8 @@
     "population": 10178,
     "naissances": 114,
     "deces": 120,
-    "taux de natalite pour mille": 11.20062881,
-    "taux de mortalite pour mille": 11.79013559,
+    "natalite": 11.20062881,
+    "mortalite": 11.79013559,
     "": ""
   },
   {
@@ -103,8 +103,8 @@
     "population": 24304,
     "naissances": 294,
     "deces": 178,
-    "taux de natalite pour mille": 12.09677419,
-    "taux de mortalite pour mille": 7.323897301,
+    "natalite": 12.09677419,
+    "mortalite": 7.323897301,
     "": ""
   },
   {
@@ -112,8 +112,8 @@
     "population": 19734,
     "naissances": 185,
     "deces": 179,
-    "taux de natalite pour mille": 9.374683288,
-    "taux de mortalite pour mille": 9.070639505,
+    "natalite": 9.374683288,
+    "mortalite": 9.070639505,
     "": ""
   },
   {
@@ -121,8 +121,8 @@
     "population": 33286,
     "naissances": 369,
     "deces": 258,
-    "taux de natalite pour mille": 11.08574175,
-    "taux de mortalite pour mille": 7.751006429,
+    "natalite": 11.08574175,
+    "mortalite": 7.751006429,
     "": ""
   },
   {
@@ -130,8 +130,8 @@
     "population": 4104,
     "naissances": 46,
     "deces": 23,
-    "taux de natalite pour mille": 11.208577,
-    "taux de mortalite pour mille": 5.604288499,
+    "natalite": 11.208577,
+    "mortalite": 5.604288499,
     "": ""
   },
   {
@@ -139,8 +139,8 @@
     "population": 8121,
     "naissances": 85,
     "deces": 52,
-    "taux de natalite pour mille": 10.46669129,
-    "taux de mortalite pour mille": 6.403152321,
+    "natalite": 10.46669129,
+    "mortalite": 6.403152321,
     "": ""
   },
   {
@@ -148,8 +148,8 @@
     "population": 2400,
     "naissances": 33,
     "deces": 9,
-    "taux de natalite pour mille": 13.75,
-    "taux de mortalite pour mille": 3.75,
+    "natalite": 13.75,
+    "mortalite": 3.75,
     "": ""
   },
   {
@@ -157,8 +157,8 @@
     "population": 6420,
     "naissances": 57,
     "deces": 38,
-    "taux de natalite pour mille": 8.878504673,
-    "taux de mortalite pour mille": 5.919003115,
+    "natalite": 8.878504673,
+    "mortalite": 5.919003115,
     "": ""
   },
   {
@@ -166,8 +166,8 @@
     "population": 17582,
     "naissances": 194,
     "deces": 138,
-    "taux de natalite pour mille": 11.03401206,
-    "taux de mortalite pour mille": 7.848936412,
+    "natalite": 11.03401206,
+    "mortalite": 7.848936412,
     "": ""
   },
   {
@@ -175,8 +175,8 @@
     "population": 2297,
     "naissances": 17,
     "deces": 11,
-    "taux de natalite pour mille": 7.400957771,
-    "taux de mortalite pour mille": 4.788855028,
+    "natalite": 7.400957771,
+    "mortalite": 4.788855028,
     "": ""
   },
   {
@@ -184,8 +184,8 @@
     "population": 5736,
     "naissances": 57,
     "deces": 29,
-    "taux de natalite pour mille": 9.937238494,
-    "taux de mortalite pour mille": 5.055788006,
+    "natalite": 9.937238494,
+    "mortalite": 5.055788006,
     "": ""
   },
   {
@@ -193,8 +193,8 @@
     "population": 5338,
     "naissances": 59,
     "deces": 51,
-    "taux de natalite pour mille": 11.05282877,
-    "taux de mortalite pour mille": 9.554140127,
+    "natalite": 11.05282877,
+    "mortalite": 9.554140127,
     "": ""
   },
   {
@@ -202,8 +202,8 @@
     "population": 15415,
     "naissances": 142,
     "deces": 134,
-    "taux de natalite pour mille": 9.211806682,
-    "taux de mortalite pour mille": 8.692831657,
+    "natalite": 9.211806682,
+    "mortalite": 8.692831657,
     "": ""
   },
   {
@@ -211,8 +211,8 @@
     "population": 9689,
     "naissances": 115,
     "deces": 101,
-    "taux de natalite pour mille": 11.86912994,
-    "taux de mortalite pour mille": 10.42419238,
+    "natalite": 11.86912994,
+    "mortalite": 10.42419238,
     "": ""
   },
   {
@@ -220,8 +220,8 @@
     "population": 6869,
     "naissances": 68,
     "deces": 65,
-    "taux de natalite pour mille": 9.899548697,
-    "taux de mortalite pour mille": 9.462803902,
+    "natalite": 9.899548697,
+    "mortalite": 9.462803902,
     "": ""
   },
   {
@@ -229,8 +229,8 @@
     "population": 3496,
     "naissances": 26,
     "deces": 30,
-    "taux de natalite pour mille": 7.437070938,
-    "taux de mortalite pour mille": 8.581235698,
+    "natalite": 7.437070938,
+    "mortalite": 8.581235698,
     "": ""
   },
   {
@@ -238,8 +238,8 @@
     "population": 14393,
     "naissances": 211,
     "deces": 90,
-    "taux de natalite pour mille": 14.65990412,
-    "taux de mortalite pour mille": 6.253039672,
+    "natalite": 14.65990412,
+    "mortalite": 6.253039672,
     "": ""
   },
   {
@@ -247,8 +247,8 @@
     "population": 111287,
     "naissances": 1293,
     "deces": 650,
-    "taux de natalite pour mille": 11.61860774,
-    "taux de mortalite pour mille": 5.840754086,
+    "natalite": 11.61860774,
+    "mortalite": 5.840754086,
     "": ""
   },
   {
@@ -256,8 +256,8 @@
     "population": 5737,
     "naissances": 53,
     "deces": 54,
-    "taux de natalite pour mille": 9.238277846,
-    "taux de mortalite pour mille": 9.412584975,
+    "natalite": 9.238277846,
+    "mortalite": 9.412584975,
     "": ""
   },
   {
@@ -265,8 +265,8 @@
     "population": 3478,
     "naissances": 36,
     "deces": 16,
-    "taux de natalite pour mille": 10.35077631,
-    "taux de mortalite pour mille": 4.600345026,
+    "natalite": 10.35077631,
+    "mortalite": 4.600345026,
     "": ""
   },
   {
@@ -274,8 +274,8 @@
     "population": 4033,
     "naissances": 42,
     "deces": 19,
-    "taux de natalite pour mille": 10.41408381,
-    "taux de mortalite pour mille": 4.711133152,
+    "natalite": 10.41408381,
+    "mortalite": 4.711133152,
     "": ""
   },
   {
@@ -283,8 +283,8 @@
     "population": 5016,
     "naissances": 43,
     "deces": 35,
-    "taux de natalite pour mille": 8.572567783,
-    "taux de mortalite pour mille": 6.977671451,
+    "natalite": 8.572567783,
+    "mortalite": 6.977671451,
     "": ""
   },
   {
@@ -292,8 +292,8 @@
     "population": 8026,
     "naissances": 73,
     "deces": 48,
-    "taux de natalite pour mille": 9.095439821,
-    "taux de mortalite pour mille": 5.98056317,
+    "natalite": 9.095439821,
+    "mortalite": 5.98056317,
     "": ""
   },
   {
@@ -301,8 +301,8 @@
     "population": 7819,
     "naissances": 84,
     "deces": 34,
-    "taux de natalite pour mille": 10.74306177,
-    "taux de mortalite pour mille": 4.348382146,
+    "natalite": 10.74306177,
+    "mortalite": 4.348382146,
     "": ""
   },
   {
@@ -310,8 +310,8 @@
     "population": 2178,
     "naissances": 22,
     "deces": 7,
-    "taux de natalite pour mille": 10.1010101,
-    "taux de mortalite pour mille": 3.213957759,
+    "natalite": 10.1010101,
+    "mortalite": 3.213957759,
     "": ""
   },
   {
@@ -319,8 +319,8 @@
     "population": 2846,
     "naissances": 29,
     "deces": 12,
-    "taux de natalite pour mille": 10.18973999,
-    "taux de mortalite pour mille": 4.216444132,
+    "natalite": 10.18973999,
+    "mortalite": 4.216444132,
     "": ""
   },
   {
@@ -328,8 +328,8 @@
     "population": 2277,
     "naissances": 25,
     "deces": 2,
-    "taux de natalite pour mille": 10.97935881,
-    "taux de mortalite pour mille": 0.878348704,
+    "natalite": 10.97935881,
+    "mortalite": 0.878348704,
     "": ""
   },
   {
@@ -337,8 +337,8 @@
     "population": 2108,
     "naissances": 16,
     "deces": 12,
-    "taux de natalite pour mille": 7.590132827,
-    "taux de mortalite pour mille": 5.69259962,
+    "natalite": 7.590132827,
+    "mortalite": 5.69259962,
     "": ""
   },
   {
@@ -346,8 +346,8 @@
     "population": 1139,
     "naissances": 14,
     "deces": 6,
-    "taux de natalite pour mille": 12.29148376,
-    "taux de mortalite pour mille": 5.267778753,
+    "natalite": 12.29148376,
+    "mortalite": 5.267778753,
     "": ""
   },
   {
@@ -355,8 +355,8 @@
     "population": 1201,
     "naissances": 10,
     "deces": 8,
-    "taux de natalite pour mille": 8.326394671,
-    "taux de mortalite pour mille": 6.661115737,
+    "natalite": 8.326394671,
+    "mortalite": 6.661115737,
     "": ""
   },
   {
@@ -364,8 +364,8 @@
     "population": 2122,
     "naissances": 23,
     "deces": 8,
-    "taux de natalite pour mille": 10.83883129,
-    "taux de mortalite pour mille": 3.770028275,
+    "natalite": 10.83883129,
+    "mortalite": 3.770028275,
     "": ""
   },
   {
@@ -373,8 +373,8 @@
     "population": 2798,
     "naissances": 32,
     "deces": 22,
-    "taux de natalite pour mille": 11.43674053,
-    "taux de mortalite pour mille": 7.862759114,
+    "natalite": 11.43674053,
+    "mortalite": 7.862759114,
     "": ""
   },
   {
@@ -382,8 +382,8 @@
     "population": 3723,
     "naissances": 42,
     "deces": 35,
-    "taux de natalite pour mille": 11.28122482,
-    "taux de mortalite pour mille": 9.401020682,
+    "natalite": 11.28122482,
+    "mortalite": 9.401020682,
     "": ""
   },
   {
@@ -391,8 +391,8 @@
     "population": 8841,
     "naissances": 110,
     "deces": 98,
-    "taux de natalite pour mille": 12.44203144,
-    "taux de mortalite pour mille": 11.08471892,
+    "natalite": 12.44203144,
+    "mortalite": 11.08471892,
     "": ""
   },
   {
@@ -400,8 +400,8 @@
     "population": 1313,
     "naissances": 11,
     "deces": 6,
-    "taux de natalite pour mille": 8.377760853,
-    "taux de mortalite pour mille": 4.569687738,
+    "natalite": 8.377760853,
+    "mortalite": 4.569687738,
     "": ""
   },
   {
@@ -409,8 +409,8 @@
     "population": 1499,
     "naissances": 22,
     "deces": 6,
-    "taux de natalite pour mille": 14.67645097,
-    "taux de mortalite pour mille": 4.002668446,
+    "natalite": 14.67645097,
+    "mortalite": 4.002668446,
     "": ""
   },
   {
@@ -418,8 +418,8 @@
     "population": 4815,
     "naissances": 46,
     "deces": 59,
-    "taux de natalite pour mille": 9.553478712,
-    "taux de mortalite pour mille": 12.25337487,
+    "natalite": 9.553478712,
+    "mortalite": 12.25337487,
     "": ""
   },
   {
@@ -427,8 +427,8 @@
     "population": 3297,
     "naissances": 46,
     "deces": 23,
-    "taux de natalite pour mille": 13.95207765,
-    "taux de mortalite pour mille": 6.976038823,
+    "natalite": 13.95207765,
+    "mortalite": 6.976038823,
     "": ""
   },
   {
@@ -436,8 +436,8 @@
     "population": 3039,
     "naissances": 28,
     "deces": 17,
-    "taux de natalite pour mille": 9.213557091,
-    "taux de mortalite pour mille": 5.593945377,
+    "natalite": 9.213557091,
+    "mortalite": 5.593945377,
     "": ""
   },
   {
@@ -445,8 +445,8 @@
     "population": 1572,
     "naissances": 33,
     "deces": 11,
-    "taux de natalite pour mille": 20.99236641,
-    "taux de mortalite pour mille": 6.997455471,
+    "natalite": 20.99236641,
+    "mortalite": 6.997455471,
     "": ""
   },
   {
@@ -454,8 +454,8 @@
     "population": 4099,
     "naissances": 37,
     "deces": 28,
-    "taux de natalite pour mille": 9.026591852,
-    "taux de mortalite pour mille": 6.830934374,
+    "natalite": 9.026591852,
+    "mortalite": 6.830934374,
     "": ""
   },
   {
@@ -463,8 +463,8 @@
     "population": 2630,
     "naissances": 29,
     "deces": 14,
-    "taux de natalite pour mille": 11.02661597,
-    "taux de mortalite pour mille": 5.323193916,
+    "natalite": 11.02661597,
+    "mortalite": 5.323193916,
     "": ""
   },
   {
@@ -472,8 +472,8 @@
     "population": 1647,
     "naissances": 37,
     "deces": 8,
-    "taux de natalite pour mille": 22.46508804,
-    "taux de mortalite pour mille": 4.857316333,
+    "natalite": 22.46508804,
+    "mortalite": 4.857316333,
     "": ""
   },
   {
@@ -481,8 +481,8 @@
     "population": 6728,
     "naissances": 64,
     "deces": 54,
-    "taux de natalite pour mille": 9.512485137,
-    "taux de mortalite pour mille": 8.026159334,
+    "natalite": 9.512485137,
+    "mortalite": 8.026159334,
     "": ""
   },
   {
@@ -490,8 +490,8 @@
     "population": 2409,
     "naissances": 17,
     "deces": 23,
-    "taux de natalite pour mille": 7.056870071,
-    "taux de mortalite pour mille": 9.547530095,
+    "natalite": 7.056870071,
+    "mortalite": 9.547530095,
     "": ""
   },
   {
@@ -499,8 +499,8 @@
     "population": 8347,
     "naissances": 76,
     "deces": 70,
-    "taux de natalite pour mille": 9.105067689,
-    "taux de mortalite pour mille": 8.386246556,
+    "natalite": 9.105067689,
+    "mortalite": 8.386246556,
     "": ""
   },
   {
@@ -508,8 +508,8 @@
     "population": 1793,
     "naissances": 27,
     "deces": 8,
-    "taux de natalite pour mille": 15.05856107,
-    "taux de mortalite pour mille": 4.461795873,
+    "natalite": 15.05856107,
+    "mortalite": 4.461795873,
     "": ""
   },
   {
@@ -517,8 +517,8 @@
     "population": 1998,
     "naissances": 30,
     "deces": 7,
-    "taux de natalite pour mille": 15.01501502,
-    "taux de mortalite pour mille": 3.503503504,
+    "natalite": 15.01501502,
+    "mortalite": 3.503503504,
     "": ""
   },
   {
@@ -526,8 +526,8 @@
     "population": 1105,
     "naissances": 12,
     "deces": 1,
-    "taux de natalite pour mille": 10.85972851,
-    "taux de mortalite pour mille": 0.904977376,
+    "natalite": 10.85972851,
+    "mortalite": 0.904977376,
     "": ""
   },
   {
@@ -535,8 +535,8 @@
     "population": 1847,
     "naissances": 16,
     "deces": 12,
-    "taux de natalite pour mille": 8.662696264,
-    "taux de mortalite pour mille": 6.497022198,
+    "natalite": 8.662696264,
+    "mortalite": 6.497022198,
     "": ""
   },
   {
@@ -544,8 +544,8 @@
     "population": 2520,
     "naissances": 30,
     "deces": 8,
-    "taux de natalite pour mille": 11.9047619,
-    "taux de mortalite pour mille": 3.174603175,
+    "natalite": 11.9047619,
+    "mortalite": 3.174603175,
     "": ""
   },
   {
@@ -553,8 +553,8 @@
     "population": 2408,
     "naissances": 17,
     "deces": 16,
-    "taux de natalite pour mille": 7.059800664,
-    "taux de mortalite pour mille": 6.644518272,
+    "natalite": 7.059800664,
+    "mortalite": 6.644518272,
     "": ""
   },
   {
@@ -562,8 +562,8 @@
     "population": 1235,
     "naissances": 13,
     "deces": 7,
-    "taux de natalite pour mille": 10.52631579,
-    "taux de mortalite pour mille": 5.668016194,
+    "natalite": 10.52631579,
+    "mortalite": 5.668016194,
     "": ""
   },
   {
@@ -571,8 +571,8 @@
     "population": 937,
     "naissances": 11,
     "deces": 1,
-    "taux de natalite pour mille": 11.73959445,
-    "taux de mortalite pour mille": 1.067235859,
+    "natalite": 11.73959445,
+    "mortalite": 1.067235859,
     "": ""
   },
   {
@@ -580,8 +580,8 @@
     "population": 1593,
     "naissances": 12,
     "deces": 6,
-    "taux de natalite pour mille": 7.532956685,
-    "taux de mortalite pour mille": 3.766478343,
+    "natalite": 7.532956685,
+    "mortalite": 3.766478343,
     "": ""
   },
   {
@@ -589,8 +589,8 @@
     "population": 4169,
     "naissances": 38,
     "deces": 25,
-    "taux de natalite pour mille": 9.114895658,
-    "taux de mortalite pour mille": 5.996641881,
+    "natalite": 9.114895658,
+    "mortalite": 5.996641881,
     "": ""
   },
   {
@@ -598,8 +598,8 @@
     "population": 2613,
     "naissances": 30,
     "deces": 29,
-    "taux de natalite pour mille": 11.48105626,
-    "taux de mortalite pour mille": 11.09835438,
+    "natalite": 11.48105626,
+    "mortalite": 11.09835438,
     "": ""
   },
   {
@@ -607,8 +607,8 @@
     "population": 710,
     "naissances": 7,
     "deces": 2,
-    "taux de natalite pour mille": 9.85915493,
-    "taux de mortalite pour mille": 2.816901408,
+    "natalite": 9.85915493,
+    "mortalite": 2.816901408,
     "": ""
   },
   {
@@ -616,8 +616,8 @@
     "population": 1688,
     "naissances": 21,
     "deces": 4,
-    "taux de natalite pour mille": 12.44075829,
-    "taux de mortalite pour mille": 2.369668246,
+    "natalite": 12.44075829,
+    "mortalite": 2.369668246,
     "": ""
   },
   {
@@ -625,8 +625,8 @@
     "population": 1088,
     "naissances": 18,
     "deces": 7,
-    "taux de natalite pour mille": 16.54411765,
-    "taux de mortalite pour mille": 6.433823529,
+    "natalite": 16.54411765,
+    "mortalite": 6.433823529,
     "": ""
   },
   {
@@ -634,8 +634,8 @@
     "population": 960,
     "naissances": 11,
     "deces": 4,
-    "taux de natalite pour mille": 11.45833333,
-    "taux de mortalite pour mille": 4.166666667,
+    "natalite": 11.45833333,
+    "mortalite": 4.166666667,
     "": ""
   },
   {
@@ -643,8 +643,8 @@
     "population": 1070,
     "naissances": 12,
     "deces": 4,
-    "taux de natalite pour mille": 11.21495327,
-    "taux de mortalite pour mille": 3.738317757,
+    "natalite": 11.21495327,
+    "mortalite": 3.738317757,
     "": ""
   },
   {
@@ -652,8 +652,8 @@
     "population": 1889,
     "naissances": 14,
     "deces": 7,
-    "taux de natalite pour mille": 7.411328745,
-    "taux de mortalite pour mille": 3.705664373,
+    "natalite": 7.411328745,
+    "mortalite": 3.705664373,
     "": ""
   },
   {
@@ -661,8 +661,8 @@
     "population": 1888,
     "naissances": 17,
     "deces": 27,
-    "taux de natalite pour mille": 9.004237288,
-    "taux de mortalite pour mille": 14.30084746,
+    "natalite": 9.004237288,
+    "mortalite": 14.30084746,
     "": ""
   },
   {
@@ -670,8 +670,8 @@
     "population": 1091,
     "naissances": 9,
     "deces": 7,
-    "taux de natalite pour mille": 8.249312557,
-    "taux de mortalite pour mille": 6.416131989,
+    "natalite": 8.249312557,
+    "mortalite": 6.416131989,
     "": ""
   },
   {
@@ -679,8 +679,8 @@
     "population": 2477,
     "naissances": 38,
     "deces": 11,
-    "taux de natalite pour mille": 15.34113847,
-    "taux de mortalite pour mille": 4.440855874,
+    "natalite": 15.34113847,
+    "mortalite": 4.440855874,
     "": ""
   },
   {
@@ -688,8 +688,8 @@
     "population": 1433,
     "naissances": 15,
     "deces": 6,
-    "taux de natalite pour mille": 10.46755059,
-    "taux de mortalite pour mille": 4.187020237,
+    "natalite": 10.46755059,
+    "mortalite": 4.187020237,
     "": ""
   },
   {
@@ -697,8 +697,8 @@
     "population": 1110,
     "naissances": 10,
     "deces": 6,
-    "taux de natalite pour mille": 9.009009009,
-    "taux de mortalite pour mille": 5.405405405,
+    "natalite": 9.009009009,
+    "mortalite": 5.405405405,
     "": ""
   },
   {
@@ -706,8 +706,8 @@
     "population": 1707,
     "naissances": 24,
     "deces": 13,
-    "taux de natalite pour mille": 14.05975395,
-    "taux de mortalite pour mille": 7.615700059,
+    "natalite": 14.05975395,
+    "mortalite": 7.615700059,
     "": ""
   },
   {
@@ -715,8 +715,8 @@
     "population": 6387,
     "naissances": 82,
     "deces": 62,
-    "taux de natalite pour mille": 12.83857836,
-    "taux de mortalite pour mille": 9.707217786,
+    "natalite": 12.83857836,
+    "mortalite": 9.707217786,
     "": ""
   },
   {
@@ -724,8 +724,8 @@
     "population": 1140,
     "naissances": 12,
     "deces": 8,
-    "taux de natalite pour mille": 10.52631579,
-    "taux de mortalite pour mille": 7.01754386,
+    "natalite": 10.52631579,
+    "mortalite": 7.01754386,
     "": ""
   },
   {
@@ -733,8 +733,8 @@
     "population": 2478,
     "naissances": 30,
     "deces": 15,
-    "taux de natalite pour mille": 12.10653753,
-    "taux de mortalite pour mille": 6.053268765,
+    "natalite": 12.10653753,
+    "mortalite": 6.053268765,
     "": ""
   },
   {
@@ -742,8 +742,8 @@
     "population": 1260,
     "naissances": 10,
     "deces": 6,
-    "taux de natalite pour mille": 7.936507937,
-    "taux de mortalite pour mille": 4.761904762,
+    "natalite": 7.936507937,
+    "mortalite": 4.761904762,
     "": ""
   },
   {
@@ -751,8 +751,8 @@
     "population": 1826,
     "naissances": 25,
     "deces": 8,
-    "taux de natalite pour mille": 13.69112815,
-    "taux de mortalite pour mille": 4.381161008,
+    "natalite": 13.69112815,
+    "mortalite": 4.381161008,
     "": ""
   },
   {
@@ -760,8 +760,8 @@
     "population": 1883,
     "naissances": 14,
     "deces": 16,
-    "taux de natalite pour mille": 7.434944238,
-    "taux de mortalite pour mille": 8.497079129,
+    "natalite": 7.434944238,
+    "mortalite": 8.497079129,
     "": ""
   },
   {
@@ -769,8 +769,8 @@
     "population": 5344,
     "naissances": 55,
     "deces": 53,
-    "taux de natalite pour mille": 10.29191617,
-    "taux de mortalite pour mille": 9.917664671,
+    "natalite": 10.29191617,
+    "mortalite": 9.917664671,
     "": ""
   },
   {
@@ -778,8 +778,8 @@
     "population": 1243,
     "naissances": 18,
     "deces": 5,
-    "taux de natalite pour mille": 14.48109413,
-    "taux de mortalite pour mille": 4.022526146,
+    "natalite": 14.48109413,
+    "mortalite": 4.022526146,
     "": ""
   },
   {
@@ -787,8 +787,8 @@
     "population": 2140,
     "naissances": 19,
     "deces": 11,
-    "taux de natalite pour mille": 8.878504673,
-    "taux de mortalite pour mille": 5.140186916,
+    "natalite": 8.878504673,
+    "mortalite": 5.140186916,
     "": ""
   },
   {
@@ -796,8 +796,8 @@
     "population": 1554,
     "naissances": 20,
     "deces": 7,
-    "taux de natalite pour mille": 12.87001287,
-    "taux de mortalite pour mille": 4.504504505,
+    "natalite": 12.87001287,
+    "mortalite": 4.504504505,
     "": ""
   },
   {
@@ -805,8 +805,8 @@
     "population": 3578,
     "naissances": 34,
     "deces": 9,
-    "taux de natalite pour mille": 9.502515372,
-    "taux de mortalite pour mille": 2.515371716,
+    "natalite": 9.502515372,
+    "mortalite": 2.515371716,
     "": ""
   },
   {
@@ -814,8 +814,8 @@
     "population": 1821,
     "naissances": 15,
     "deces": 11,
-    "taux de natalite pour mille": 8.23723229,
-    "taux de mortalite pour mille": 6.040637013,
+    "natalite": 8.23723229,
+    "mortalite": 6.040637013,
     "": ""
   },
   {
@@ -823,8 +823,8 @@
     "population": 1890,
     "naissances": 16,
     "deces": 14,
-    "taux de natalite pour mille": 8.465608466,
-    "taux de mortalite pour mille": 7.407407407,
+    "natalite": 8.465608466,
+    "mortalite": 7.407407407,
     "": ""
   },
   {
@@ -832,8 +832,8 @@
     "population": 4751,
     "naissances": 41,
     "deces": 45,
-    "taux de natalite pour mille": 8.629762155,
-    "taux de mortalite pour mille": 9.47169017,
+    "natalite": 8.629762155,
+    "mortalite": 9.47169017,
     "": ""
   },
   {
@@ -841,8 +841,8 @@
     "population": 7094,
     "naissances": 86,
     "deces": 39,
-    "taux de natalite pour mille": 12.12292078,
-    "taux de mortalite pour mille": 5.497603609,
+    "natalite": 12.12292078,
+    "mortalite": 5.497603609,
     "": ""
   },
   {
@@ -850,8 +850,8 @@
     "population": 1885,
     "naissances": 24,
     "deces": 21,
-    "taux de natalite pour mille": 12.73209549,
-    "taux de mortalite pour mille": 11.14058355,
+    "natalite": 12.73209549,
+    "mortalite": 11.14058355,
     "": ""
   },
   {
@@ -859,8 +859,8 @@
     "population": 4286,
     "naissances": 40,
     "deces": 34,
-    "taux de natalite pour mille": 9.332711153,
-    "taux de mortalite pour mille": 7.93280448,
+    "natalite": 9.332711153,
+    "mortalite": 7.93280448,
     "": ""
   },
   {
@@ -868,8 +868,8 @@
     "population": 2654,
     "naissances": 29,
     "deces": 11,
-    "taux de natalite pour mille": 10.92690279,
-    "taux de mortalite pour mille": 4.144687265,
+    "natalite": 10.92690279,
+    "mortalite": 4.144687265,
     "": ""
   },
   {
@@ -877,8 +877,8 @@
     "population": 1480,
     "naissances": 20,
     "deces": 8,
-    "taux de natalite pour mille": 13.51351351,
-    "taux de mortalite pour mille": 5.405405405,
+    "natalite": 13.51351351,
+    "mortalite": 5.405405405,
     "": ""
   },
   {
@@ -886,8 +886,8 @@
     "population": 2033,
     "naissances": 25,
     "deces": 15,
-    "taux de natalite pour mille": 12.29709788,
-    "taux de mortalite pour mille": 7.378258731,
+    "natalite": 12.29709788,
+    "mortalite": 7.378258731,
     "": ""
   },
   {
@@ -895,8 +895,8 @@
     "population": 1805,
     "naissances": 26,
     "deces": 5,
-    "taux de natalite pour mille": 14.40443213,
-    "taux de mortalite pour mille": 2.770083102,
+    "natalite": 14.40443213,
+    "mortalite": 2.770083102,
     "": ""
   },
   {
@@ -904,8 +904,8 @@
     "population": 4651,
     "naissances": 46,
     "deces": 55,
-    "taux de natalite pour mille": 9.890346162,
-    "taux de mortalite pour mille": 11.82541389,
+    "natalite": 9.890346162,
+    "mortalite": 11.82541389,
     "": ""
   },
   {
@@ -913,8 +913,8 @@
     "population": 3476,
     "naissances": 42,
     "deces": 46,
-    "taux de natalite pour mille": 12.08285386,
-    "taux de mortalite pour mille": 13.23360184,
+    "natalite": 12.08285386,
+    "mortalite": 13.23360184,
     "": ""
   },
   {
@@ -922,8 +922,8 @@
     "population": 4459,
     "naissances": 47,
     "deces": 28,
-    "taux de natalite pour mille": 10.54047993,
-    "taux de mortalite pour mille": 6.279434851,
+    "natalite": 10.54047993,
+    "mortalite": 6.279434851,
     "": ""
   },
   {
@@ -931,8 +931,8 @@
     "population": 1674,
     "naissances": 18,
     "deces": 11,
-    "taux de natalite pour mille": 10.75268817,
-    "taux de mortalite pour mille": 6.571087216,
+    "natalite": 10.75268817,
+    "mortalite": 6.571087216,
     "": ""
   },
   {
@@ -940,8 +940,8 @@
     "population": 942,
     "naissances": 7,
     "deces": 1,
-    "taux de natalite pour mille": 7.430997877,
-    "taux de mortalite pour mille": 1.061571125,
+    "natalite": 7.430997877,
+    "mortalite": 1.061571125,
     "": ""
   }
 ]
