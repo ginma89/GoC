@@ -1,6 +1,3 @@
-$.getJSON("https://raw.githubusercontent.com/ginma89/GoC/master/data/testData.json", function (data) {
-    //console.log(data);
-});
 
 function garbagePerHabitant(x) {
     return Math.abs(Math.ceil(100 - (x - 109) * (1 / 2.03)));
@@ -22,6 +19,6 @@ function tauxDeMortalite(x) {
     return Math.abs(Math.ceil(100 - (x-0.878)*(1/0.13422)));
 }
 
-localStorage.setItem("test", "data data data data data data data data ");
-
-var localTest = localStorage.getItem("test");
+function tauxDiplome(x) {
+    return Math.abs(Math.ceil((x-72.271)*(1/0.70984)));
+}
