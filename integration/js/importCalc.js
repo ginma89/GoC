@@ -64,28 +64,28 @@ function ultraCalc(param, identifier) {
     //DECHETS
     if (identifier == 'dechets') {
         for (var key in param) {
-            param[key].dechetsNote = garbagePerHabitant(param[key].a2015);
+            param[key].dechetsNote = garbagePerHabitant(param[key]['Dechets menagers par habitant']);
         }
     }
     //CHOMAGE
     if (identifier == 'chomage') {
         for (var key in param) {
-            param[key].chomageNote = tauxDeChomage(param[key].a2015);
+            param[key].chomageNote = tauxDeChomage(param[key].tauxChomage);
         }
     }
     //NAISSANCES DECES
     if (identifier == 'mortNat') {
         for (var key in param) {
-            param[key].mortNote = tauxDeMortalite(param[key].a2015);
+            param[key].mortNote = tauxDeMortalite(param[key]['taux de mortalité pour mille']);
         };
         for (var key in param) {
-            param[key].naissanceNote = tauxDeNatalite(param[key].a2015);
+            param[key].naissanceNote = tauxDeNatalite(param[key]['taux de natalité pour mille']);
         }
     }
     //DIPLOMES
     if (identifier == 'diplomes') {
         for (var key in param) {
-            param[key].diplomesNote = tauxDiplome(param[key].a2015);
+            param[key].diplomesNote = tauxDiplome(param[key]['Indice']);
         }
     }
 }
