@@ -1,18 +1,16 @@
-﻿var communesdata = [];
+var communesdata = [];
 var accidents = [];
 var dechets = [];
 var chomage = [];
 var mortNat = [];
 var diplomes = [];
-
 var count = 0;
-
 var files = [
-   "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/accidents.json",
-    "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/dechetsMenages.json",
-    "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/EmploiEtChomagepParCantonEtParCommune.json",
-    "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/taux%20de%20mortalit%C3%A9%20et%20natalit%C3%A9.json",
-    "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/Taux-dipl%C3%B4me%202011.json"
+   "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/accidents.json"
+    , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/dechetsMenages.json"
+    , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/EmploiEtChomagepParCantonEtParCommune.json"
+    , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/taux%20de%20mortalit%C3%A9%20et%20natalit%C3%A9.json"
+    , "https://raw.githubusercontent.com/ginma89/GoC/master/data/json/Taux-dipl%C3%B4me%202011.json"
 ];
 
 function garbagePerHabitant(x) {
@@ -51,9 +49,7 @@ function getDataFromUrl(url, param, identifier) {
         ultraCalc(param, identifier);
         /////////////////
     });
-    fetchdata.done(function () {
-        //console.log('ok');
-    });
+    fetchdata.done(function () {});
 }
 
 function ultraCalc(param, identifier) {
@@ -91,14 +87,28 @@ function ultraCalc(param, identifier) {
         }
     }
 }
-
 jQuery(document).ready(function () {
+        getDataFromUrl(files[0], accidents, 'accidents');
+        getDataFromUrl(files[1], dechets, 'dechets');
+        getDataFromUrl(files[2], chomage, 'chomage');
+        getDataFromUrl(files[3], mortNat, 'mortNat');
+        getDataFromUrl(files[4], diplomes, 'diplomes');
+    })
+    /***
 
-    getDataFromUrl(files[0], accidents, 'accidents');
-    getDataFromUrl(files[1], dechets, 'dechets');
-    getDataFromUrl(files[2], chomage, 'chomage');
-    getDataFromUrl(files[3], mortNat, 'mortNat');
-    getDataFromUrl(files[4], diplomes, 'diplomes');
 
-    
-})
+      /*** parsedata ****/
+var paramsfetch = ['naissanceNote', 'deces']
+for (var i = 0; i < communesdata.length; i++) {
+    var parsedata = [];
+    parsedata = communesdata[i];
+    for (var j = 0; j < communelist.length; j++) {
+        for (var j = 0; j < communelist.length; j++) {
+            var parseobjetdata = [];
+            var fetchcommune = communelist[j]
+            for (var k = 0; k < paramsfetch.length; k++) {
+                console.log(parsedata.communelist[j].paramsfetch[k])
+            }
+        }
+    }
+}
