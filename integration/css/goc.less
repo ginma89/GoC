@@ -62,6 +62,7 @@
     /*** General Rules ***/
     h1 {
         color: @COLOR_White;
+        ;
         font-size: 2.6em;
         line-height: 75px;
         padding: 0;
@@ -119,23 +120,51 @@
     header {
         width: 100%;
         height: 75px;
-        background: @COLOR_Blue;
+        background: @COLOR_Orange;
         //  margin-bottom: 1em;
         // border: 1px solid @COLOR_BlueLight;
     }
     .content-root {
-        background: @COLOR_BlueMedium;
+        background: @COLOR_Blue;
         display: block;
         overflow: hidden;
     }
     .module {
         display: block;
         overflow: hidden;
-        background: @COLOR_White;
+        //  background: @COLOR_White;
         padding: .5em 1em;
-   //    border-radius: 5px;
-        border: 1px solid @COLOR_Blue;
+        //    border-radius: 5px;
+        //  border: 1px solid @COLOR_Blue;
         //  margin-bottom: 2em;
+    }
+    .colors {
+        float: left;
+        padding: .5em;
+        background: @COLOR_BlueLight;
+        margin-left: 3em;
+        li {padding:2px 10px;
+            display: inline-block;
+            p {
+                font-weight: 700;
+                line-height: 1.3em;
+            }
+        }
+        .white {
+            background: #fff
+        }
+        .less {
+            background: #84d64c
+        }
+        .medium {
+            background: #28a201
+        }
+        .high {
+            background: #208701
+        }
+        .orange {
+            background: @COLOR_Orange;
+        }
     }
     .map {
         width: 100%;
@@ -167,12 +196,15 @@
         background: @COLOR_BlueLight;
         border: 1px solid @COLOR_White;
         padding: 1em;
-        &[selected="selected"]{display: block;}
+        &[selected="selected"] {
+            display: block;
+        }
     }
     .filters {
         margin: 1em 0;
         width: 92.5%;
         .filterheader {
+            display: none;
             h2 {}
         }
         ul {
@@ -190,7 +222,7 @@
                 &:hover {
                     background: @COLOR_Orange;
                 }
-                &[checked="true"] {
+                &[selected="selected"] {
                     background: @COLOR_Orange;
                 }
             }
@@ -205,8 +237,8 @@
         height: 45px;
         text-align: center;
         font-weight: 700;
-        color: @COLOR_White;
-        background: @COLOR_Blue;
+        color: @COLOR_Blue;
+        background: @COLOR_White;
         p {
             line-height: 45px;
         }

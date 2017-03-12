@@ -129,6 +129,7 @@ function parseDiplomes() {
     }
     colorMap('diplomenotes', '40', '80');
     textbuilder();
+     $('.filterlist .level1').first().attr('selected','selected')
 }
 jQuery(document).ready(function () {
         getDataFromUrl(files[0], accidents, 'accidents');

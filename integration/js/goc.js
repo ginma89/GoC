@@ -43,6 +43,8 @@
               }
           })
           $('.filterlist .level1').on('click', function () {
+              $('.filterlist .level1').removeAttr('selected')
+              $(this).attr('selected', 'selected')
               var selector = $(this).attr('filter');
               var min = $(this).attr('min');
               var med = $(this).attr('med');
