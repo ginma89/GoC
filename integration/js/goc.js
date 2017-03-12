@@ -78,7 +78,7 @@
               , note = $(this).attr('diplomenotes')
               , primaire = $(this).attr('primaire')
               , secondaire = $(this).attr('secondaire')
-              , universitaire = $(this).attr('universtaire');
+              , universitaire = $(this).attr('universitaire');
           $('<h2>' + cname + '</h2><h3>Indice : ' + note + '</h3><p>Primaire : ' + primaire + '</p><p>Secondaire : ' + secondaire + '</p><p>Universitaire : ' + universitaire + '</p>').appendTo($(this))
       })
   }
