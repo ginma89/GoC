@@ -133,7 +133,7 @@
         overflow: hidden;
         background: @COLOR_White;
         padding: .5em 1em;
-        border-radius: 5px;
+   //    border-radius: 5px;
         border: 1px solid @COLOR_Blue;
         //  margin-bottom: 2em;
     }
@@ -150,14 +150,28 @@
                 //  stroke: @COLOR_White;
             }
             path[selected="selected"] {
-                fill: @COLOR_Blue;
+                fill: @COLOR_Orange;
             }
         }
         img {
             width: 100%;
         }
     }
+    .data li {
+        display: none;
+        width: 45%;
+        margin-right: 2.5%;
+        margin-bottom: 1em;
+        float: left;
+        overflow: hidden;
+        background: @COLOR_BlueLight;
+        border: 1px solid @COLOR_White;
+        padding: 1em;
+        &[selected="selected"]{display: block;}
+    }
     .filters {
+        margin: 1em 0;
+        width: 92.5%;
         .filterheader {
             h2 {}
         }

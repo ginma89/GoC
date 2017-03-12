@@ -110,7 +110,6 @@
   overflow: hidden;
   background: #ffffff;
   padding: .5em 1em;
-  border-radius: 5px;
   border: 1px solid #00537b;
 }
 .k1 .map {
@@ -126,10 +125,28 @@
   fill: #ea5b0c;
 }
 .k1 .map svg path[selected="selected"] {
-  fill: #00537b;
+  fill: #ea5b0c;
 }
 .k1 .map img {
   width: 100%;
+}
+.k1 .data li {
+  display: none;
+  width: 45%;
+  margin-right: 2.5%;
+  margin-bottom: 1em;
+  float: left;
+  overflow: hidden;
+  background: #d1e5f6;
+  border: 1px solid #ffffff;
+  padding: 1em;
+}
+.k1 .data li[selected="selected"] {
+  display: block;
+}
+.k1 .filters {
+  margin: 1em 0;
+  width: 92.5%;
 }
 .k1 .filters ul li {
   float: left;

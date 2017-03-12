@@ -1,4 +1,4 @@
-﻿var communesdata = [];
+var communesdata = [];
 var accidents = [];
 var dechets = [];
 var chomage = [];
@@ -49,7 +49,7 @@ function getDataFromUrl(url, param, identifier) {
         ultraCalc(param, identifier);
         /////////////////
     });
-    fetchdata.done(function () { });
+    fetchdata.done(function () {});
 }
 
 function ultraCalc(param, identifier) {
@@ -125,24 +125,28 @@ function parseData2() {
 
 function parseDiplomes() {
     for (var commune in diplomes) {
-        $('.data').append(
-            '<li name="' + diplomes[commune].Commune + '" diplomeNotes="' + diplomes[commune].diplomesNote + '" primaire="' + diplomes[commune].primaire + '" secondaire="' + diplomes[commune].secondaire + '" universitaire="' + diplomes[commune].universitaire +'"></li'
-        )
+        $('.data').append('<li name="' + diplomes[commune].Commune + '" diplomeNotes="' + diplomes[commune].diplomesNote + '" primaire="' + diplomes[commune].primaire + '" secondaire="' + diplomes[commune].secondaire + '" universitaire="' + diplomes[commune].universitaire + '"></li')
     }
+    colorMap('diplomenotes', '40', '80');
+    textbuilder();
 }
-
+jQuery(document).ready(function () {
+        getDataFromUrl(files[0], accidents, 'accidents');
+        getDataFromUrl(files[1], dechets, 'dechets');
+        getDataFromUrl(files[2], chomage, 'chomage');
+        getDataFromUrl(files[3], mortNat, 'mortNat');
+        getDataFromUrl(files[4], diplomes, 'diplomes');
+        setTimeout(function () {
+            parseDiplomes();
+            //parseData('accidents');
+        }, 800);
+    })
+    /*** parsedata ****/
+function parseData() {}
 jQuery(document).ready(function () {
     getDataFromUrl(files[0], accidents, 'accidents');
-    getDataFromUrl(files[1], dechets, 'dechets');
+    getDataFromUrl(files[0], dechets, 'dechets');
     getDataFromUrl(files[2], chomage, 'chomage');
-    getDataFromUrl(files[3], mortNat, 'mortNat');
+    getDataFromUrl(files[1], mortNat, 'mortNat');
     getDataFromUrl(files[4], diplomes, 'diplomes');
-
-    setTimeout(function () {
-        parseDiplomes();
-        //parseData('accidents');
-    }, 800);
-
 })
-
-/*** parsedata ****/
